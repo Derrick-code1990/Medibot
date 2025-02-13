@@ -1,0 +1,933 @@
+,Question,Answer
+0,What is the purpose of the Primary Healthcare Fund?,"To purchase primary healthcare services, pay health facilities, and establish a pool for receipt and payment of funds."
+1,Who is eligible to access healthcare under the Primary Healthcare Fund?,Every person resident in Kenya who is registered as a member of the Social Health Insurance Fund.
+2,What services are covered under the Primary Healthcare Fund?,"Promotive, preventive, curative, rehabilitative, palliative care, and referral services."
+3,What is the role of the Authority in financing the Primary Healthcare Fund?,To mobilize resources for purchasing primary healthcare services from health facilities.
+4,What is the Social Health Insurance Fund used for?,To pool all contributions and purchase healthcare services from contracted providers and facilities.
+5,Who must register with the Social Health Insurance Fund?,Every person resident in Kenya within 90 days of the regulations coming into effect.
+6,What documents are required for initial registration?,A national ID or an alternative approved document.
+7,How are children registered under the Social Health Insurance Fund?,"Through their parent or guardian, with a birth certificate or notification document."
+8,What happens when a beneficiary under the Social Health Insurance Fund dies?,The Authority deregisters the person and revokes their insurance card.
+9,How are contributions determined for salaried employees?,"A monthly deduction of 2.75% of gross salary, with a minimum contribution of Ksh 300."
+10,What is the contribution rate for non-salaried households?,"2.75% of household income, determined by a means testing instrument."
+11,Who pays contributions for indigent households?,"The National or County Government, as determined by means testing."
+12,Who contributes for persons under lawful custody?,The Ministry responsible for correctional services.
+13,How is means testing conducted?,Using socio-economic data collected from households.
+14,What are the obligations of an employer under the Social Health Insurance Fund?,To deduct and submit contributions for employees by the ninth of each month.
+15,What penalty is imposed for late contribution payments?,"A penalty as determined by the Authority, with notification sent to the contributor."
+16,How can a contributor request their account statement?,By submitting a request to the Authority.
+17,"What is the Emergency, Chronic and Critical Illness Fund used for?","To finance emergency services, critical care, and chronic illness treatment."
+18,"Who is eligible for benefits under the Emergency, Chronic and Critical Illness Fund?",Beneficiaries of the Social Health Insurance Fund who exhaust their primary benefits.
+19,"What services are covered under the Emergency, Chronic and Critical Illness Fund?","Emergency care, chronic illness treatment, and critical care services."
+20,"How are payments made from the Emergency, Chronic and Critical Illness Fund?","Based on claims submitted by healthcare providers, reviewed by the Claims Management Office."
+21,What is the national emergency medical care code used for?,Handling medical emergencies and informing beneficiaries of available services.
+22,What is empanelment in healthcare provision?,The process of selecting and registering healthcare providers for service delivery.
+23,Who can provide services under the Social Health Insurance Fund?,Licensed and contracted healthcare providers and facilities.
+24,How are healthcare providers contracted?,Through a public procurement process as per the Public Procurement and Asset Disposal Act.
+25,What happens if a contracted provider fails to meet standards?,"The contract is terminated, and they are removed from the list of service providers."
+26,Can Kenyan beneficiaries receive treatment outside the country?,"Yes, if the required treatment is unavailable in Kenya and approved by the Authority."
+27,What is required for treatment approval outside Kenya?,"A referral, medical history, and proof that the treatment is unavailable locally."
+28,Who determines the essential healthcare benefits packages?,"The Benefits Package and Tariffs Advisory Panel, reviewed every two years."
+29,What factors are considered when designing an essential benefits package?,"Clinical effectiveness, disease burden, cost-effectiveness, and feasibility."
+30,Who can propose new healthcare interventions?,"Stakeholders including policymakers, academia, NGOs, and health professionals."
+31,How are new healthcare interventions selected?,"Through a structured selection, assessment, and appraisal process."
+32,What is the role of the Benefits Package and Tariffs Advisory Panel?,To review and update benefit packages and tariffs based on data and assessments.
+33,How are tariffs for healthcare services determined?,"Using cost analysis, actuarial studies, and stakeholder engagement."
+34,What are the steps in setting new tariffs?,"Data collection, proposal, stakeholder engagement, recommendation, and approval."
+35,Who approves the final tariffs?,"The Cabinet Secretary, after recommendations from the Benefits Package and Tariffs Advisory Panel."
+36,How often are tariffs reviewed?,Every two years or as determined by the Cabinet Secretary.
+37,What factors influence tariff adjustments?,"Economic conditions, technological advancements, disease burden, and market dynamics."
+38,What is the role of the Claims Management Office?,"To process claims, conduct reviews, and handle pre-authorization requests."
+39,What is required when lodging a healthcare claim?,"Patient details, service description, amount claimed, and necessary supporting documents."
+40,How long does a healthcare provider have to submit a claim?,Within seven days from the patient's discharge.
+41,What happens if a claim has errors?,It is returned to the healthcare provider for correction.
+42,What is pre-authorization in healthcare?,Approval required before providing certain specialized services.
+43,What happens if a claim is found to be non-compliant?,"It is rejected, and if already paid, the healthcare provider may be asked to refund it."
+44,What is the Centralized Digital Platform?,"A system for managing beneficiary records, claims processing, and payments."
+45,How do healthcare providers verify patient eligibility?,"Using biometrics, national ID, or a one-time password."
+46,Who is responsible for maintaining accurate medical records?,Healthcare providers and facilities contracted under the scheme.
+47,How are disputes regarding claims handled?,Through an independent adjudication panel.
+48,What is the penalty for fraudulent claims?,Revocation of the contract and possible legal action.
+49,Who oversees compliance with the healthcare regulations?,"The Authority, through audits and quality assurance checks."
+50,What is the role of a medical insurance provider in claims processing?,"To review, verify, and submit claims for payment, ensuring compliance with regulations."
+51,What documents must be submitted for a healthcare claim?,"Social health insurance number, hospital registration number, patient details, clinical details, and claim amount."
+52,How long does the Claims Management Office have to process a pre-authorization request?,Within 72 hours of receiving the request.
+53,What happens if a claim is fraudulently submitted?,"The provider may be required to refund the amount, and their contract may be terminated."
+54,Who is responsible for monitoring compliance with tariffs and claims?,The Authority and the Benefits Package and Tariffs Advisory Panel.
+55,What are the main responsibilities of the Benefits Package and Tariffs Advisory Panel?,"Reviewing benefits and tariffs, assessing cost-effectiveness, and making recommendations."
+56,What is the eligibility requirement for the Chairperson of the Benefits Package and Tariffs Advisory Panel?,"A Kenyan citizen with at least 10 years of experience in health financing, medicine, or epidemiology."
+57,How often must the Benefits Package and Tariffs Advisory Panel meet?,At least twice a year.
+58,What happens if the Cabinet Secretary rejects a proposed tariff?,The Benefits Package and Tariffs Advisory Panel must review the reasons and propose adjustments.
+59,What data sources are used to determine healthcare tariffs?,"Primary data, secondary data, operational data, and actuarial analysis."
+60,What economic factors influence the revision of tariffs?,"Inflation, cost of medical equipment, changes in disease burden, and market trends."
+61,What is the main role of the Secretariat of the Benefits Package and Tariffs Advisory Panel?,Providing technical and administrative support to the panel.
+62,How is treatment outside Kenya authorized?,"By submitting a referral from a licensed doctor, medical history, and proof that the treatment is unavailable in Kenya."
+63,Which entity maintains medical records of treatment outside Kenya?,"The Authority, in compliance with the Digital Health Act and Data Protection Act."
+64,What are the requirements for empanelment of a healthcare provider?,"They must be licensed, certified, and meet the quality standards set by the Ministry of Health."
+65,Can healthcare providers outside Kenya be empaneled?,"Yes, if they meet accreditation requirements and provide services unavailable in Kenya."
+66,What healthcare services must an empaneled provider offer?,Essential healthcare benefits as per their level of service and contractual obligations.
+67,What penalties apply for non-compliance by healthcare providers?,"Termination of contract, financial penalties, and possible legal action."
+68,Who pays for emergency medical services?,"The Emergency, Chronic, and Critical Illness Fund, provided the services are within the approved package."
+69,How are claims for emergency services processed?,"Submitted to the Claims Management Office, reviewed, and paid based on tariffs."
+70,What is the function of the Centralized Digital Platform?,"To manage registration, claims, payments, and data analytics for the insurance scheme."
+71,How do beneficiaries verify their identity at healthcare facilities?,"Through biometrics, a national ID, or a one-time password."
+72,What happens when a registered beneficiary fails to pay their contributions?,They may lose access to certain benefits until payments are updated.
+73,How does the Authority determine the financial ability of households?,"Through means testing, which considers housing, access to services, and income sources."
+74,Who is responsible for paying premiums for persons under lawful custody?,The Ministry responsible for correctional services.
+75,Can an employer delay submission of contributions?,"No, they must submit deductions by the ninth of each month to avoid penalties."
+76,What is the role of the Ministry of Social Protection in health insurance?,Identifying indigent households and ensuring their contributions are paid by the government.
+77,What is considered a chronic illness under the insurance scheme?,"A long-term condition requiring continuous medical care, such as diabetes or hypertension."
+78,What are the key factors considered in appraising a healthcare intervention?,"Cost-effectiveness, disease burden, feasibility, and clinical effectiveness."
+79,How can healthcare providers propose new services for coverage?,By submitting a request through the Benefits Package and Tariffs Advisory Panel.
+80,What are the obligations of a contracted healthcare facility?,"To provide quality services, maintain records, and comply with contractual terms."
+81,What healthcare services require pre-authorization?,Specialized services that involve high costs or complex procedures.
+82,How are healthcare providers monitored for compliance?,"Through audits, inspections, and quality assurance checks by the Authority."
+83,What factors influence the classification of healthcare zones?,"Population size, disease burden, and estimated claims volume."
+84,Who is responsible for reviewing denied claims?,An independent adjudication panel formed by the Claims Management Office.
+85,What recourse does a healthcare provider have if their contract is terminated?,They may appeal to the Dispute Resolution Tribunal.
+86,How often must the Authority update its beneficiary records?,"On a continuous basis, with mandatory updates for major life events."
+87,What is the penalty for submitting false patient information?,"Possible contract termination, legal action, and financial penalties."
+88,Can beneficiaries switch healthcare providers?,"Yes, but they must choose from empaneled providers and follow set procedures."
+89,How are tariffs for new treatments determined?,"Based on cost analysis, medical necessity, and market research."
+90,What obligations does a county government have in the insurance scheme?,Identifying indigent beneficiaries and ensuring contributions are remitted.
+91,Who provides oversight for the entire health insurance framework?,"The Cabinet Secretary, in consultation with the Authority and Advisory Panels."
+92,How does the scheme ensure equitable access to healthcare?,"By subsidizing indigents, ensuring fair tariffs, and expanding service coverage."
+93,What measures exist to prevent fraud in the claims process?,"Strict documentation, digital verification, and regular audits."
+94,Who can access services under the Essential Healthcare Benefits Package?,All registered beneficiaries with up-to-date contributions.
+95,What is the role of an actuary in determining tariffs?,Assessing financial risks and ensuring contributions are sufficient for coverage.
+96,Can private insurers participate in the scheme?,"Yes, as long as they comply with regulations and provide approved services."
+97,What happens if a healthcare provider refuses treatment for financial reasons?,"They may face penalties, contract termination, or legal action."
+98,What is the purpose of the Primary Healthcare Fund?,"To purchase primary healthcare services, pay health facilities, and establish a pool for receipt and payment of funds."
+99,Who is eligible to access healthcare under the Primary Healthcare Fund?,Every person resident in Kenya who is registered as a member of the Social Health Insurance Fund.
+100,What services are covered under the Primary Healthcare Fund?,"Promotive, preventive, curative, rehabilitative, palliative care, and referral services."
+101,What is the role of the Authority in financing the Primary Healthcare Fund?,To mobilize resources for purchasing primary healthcare services from health facilities.
+102,What is the Social Health Insurance Fund used for?,To pool all contributions and purchase healthcare services from contracted providers and facilities.
+103,Who must register with the Social Health Insurance Fund?,Every person resident in Kenya within 90 days of the regulations coming into effect.
+104,What documents are required for initial registration?,A national ID or an alternative approved document.
+105,How are children registered under the Social Health Insurance Fund?,"Through their parent or guardian, with a birth certificate or notification document."
+106,What happens when a beneficiary under the Social Health Insurance Fund dies?,The Authority deregisters the person and revokes their insurance card.
+107,How are contributions determined for salaried employees?,"A monthly deduction of 2.75% of gross salary, with a minimum contribution of Ksh 300."
+108,What is the contribution rate for non-salaried households?,"2.75% of household income, determined by a means testing instrument."
+109,Who pays contributions for indigent households?,"The National or County Government, as determined by means testing."
+110,Who contributes for persons under lawful custody?,The Ministry responsible for correctional services.
+111,How is means testing conducted?,Using socio-economic data collected from households.
+112,What are the obligations of an employer under the Social Health Insurance Fund?,To deduct and submit contributions for employees by the ninth of each month.
+113,What penalty is imposed for late contribution payments?,"A penalty as determined by the Authority, with notification sent to the contributor."
+114,How can a contributor request their account statement?,By submitting a request to the Authority.
+115,"What is the Emergency, Chronic and Critical Illness Fund used for?","To finance emergency services, critical care, and chronic illness treatment."
+116,"Who is eligible for benefits under the Emergency, Chronic and Critical Illness Fund?",Beneficiaries of the Social Health Insurance Fund who exhaust their primary benefits.
+117,"What services are covered under the Emergency, Chronic and Critical Illness Fund?","Emergency care, chronic illness treatment, and critical care services."
+118,"How are payments made from the Emergency, Chronic and Critical Illness Fund?","Based on claims submitted by healthcare providers, reviewed by the Claims Management Office."
+119,What is the national emergency medical care code used for?,Handling medical emergencies and informing beneficiaries of available services.
+120,What is empanelment in healthcare provision?,The process of selecting and registering healthcare providers for service delivery.
+121,Who can provide services under the Social Health Insurance Fund?,Licensed and contracted healthcare providers and facilities.
+122,How are healthcare providers contracted?,Through a public procurement process as per the Public Procurement and Asset Disposal Act.
+123,What happens if a contracted provider fails to meet standards?,"The contract is terminated, and they are removed from the list of service providers."
+124,Can Kenyan beneficiaries receive treatment outside the country?,"Yes, if the required treatment is unavailable in Kenya and approved by the Authority."
+125,What is required for treatment approval outside Kenya?,"A referral, medical history, and proof that the treatment is unavailable locally."
+126,Who determines the essential healthcare benefits packages?,"The Benefits Package and Tariffs Advisory Panel, reviewed every two years."
+127,What factors are considered when designing an essential benefits package?,"Clinical effectiveness, disease burden, cost-effectiveness, and feasibility."
+128,Who can propose new healthcare interventions?,"Stakeholders including policymakers, academia, NGOs, and health professionals."
+129,How are new healthcare interventions selected?,"Through a structured selection, assessment, and appraisal process."
+130,What is the role of the Benefits Package and Tariffs Advisory Panel?,To review and update benefit packages and tariffs based on data and assessments.
+131,How are tariffs for healthcare services determined?,"Using cost analysis, actuarial studies, and stakeholder engagement."
+132,What are the steps in setting new tariffs?,"Data collection, proposal, stakeholder engagement, recommendation, and approval."
+133,Who approves the final tariffs?,"The Cabinet Secretary, after recommendations from the Benefits Package and Tariffs Advisory Panel."
+134,How often are tariffs reviewed?,Every two years or as determined by the Cabinet Secretary.
+135,What factors influence tariff adjustments?,"Economic conditions, technological advancements, disease burden, and market dynamics."
+136,What is the role of the Claims Management Office?,"To process claims, conduct reviews, and handle pre-authorization requests."
+137,What is required when lodging a healthcare claim?,"Patient details, service description, amount claimed, and necessary supporting documents."
+138,How long does a healthcare provider have to submit a claim?,Within seven days from the patient's discharge.
+139,What happens if a claim has errors?,It is returned to the healthcare provider for correction.
+140,What is pre-authorization in healthcare?,Approval required before providing certain specialized services.
+141,What happens if a claim is found to be non-compliant?,"It is rejected, and if already paid, the healthcare provider may be asked to refund it."
+142,What is the Centralized Digital Platform?,"A system for managing beneficiary records, claims processing, and payments."
+143,How do healthcare providers verify patient eligibility?,"Using biometrics, national ID, or a one-time password."
+144,Who is responsible for maintaining accurate medical records?,Healthcare providers and facilities contracted under the scheme.
+145,How are disputes regarding claims handled?,Through an independent adjudication panel.
+146,What is the penalty for fraudulent claims?,Revocation of the contract and possible legal action.
+147,Who oversees compliance with the healthcare regulations?,"The Authority, through audits and quality assurance checks."
+148,What is the role of a medical insurance provider in claims processing?,"To review, verify, and submit claims for payment, ensuring compliance with regulations."
+149,What documents must be submitted for a healthcare claim?,"Social health insurance number, hospital registration number, patient details, clinical details, and claim amount."
+150,How long does the Claims Management Office have to process a pre-authorization request?,Within 72 hours of receiving the request.
+151,What happens if a claim is fraudulently submitted?,"The provider may be required to refund the amount, and their contract may be terminated."
+152,Who is responsible for monitoring compliance with tariffs and claims?,The Authority and the Benefits Package and Tariffs Advisory Panel.
+153,What are the main responsibilities of the Benefits Package and Tariffs Advisory Panel?,"Reviewing benefits and tariffs, assessing cost-effectiveness, and making recommendations."
+154,What is the eligibility requirement for the Chairperson of the Benefits Package and Tariffs Advisory Panel?,"A Kenyan citizen with at least 10 years of experience in health financing, medicine, or epidemiology."
+155,How often must the Benefits Package and Tariffs Advisory Panel meet?,At least twice a year.
+156,What happens if the Cabinet Secretary rejects a proposed tariff?,The Benefits Package and Tariffs Advisory Panel must review the reasons and propose adjustments.
+157,What data sources are used to determine healthcare tariffs?,"Primary data, secondary data, operational data, and actuarial analysis."
+158,What economic factors influence the revision of tariffs?,"Inflation, cost of medical equipment, changes in disease burden, and market trends."
+159,What is the main role of the Secretariat of the Benefits Package and Tariffs Advisory Panel?,Providing technical and administrative support to the panel.
+160,How is treatment outside Kenya authorized?,"By submitting a referral from a licensed doctor, medical history, and proof that the treatment is unavailable in Kenya."
+161,Which entity maintains medical records of treatment outside Kenya?,"The Authority, in compliance with the Digital Health Act and Data Protection Act."
+162,What are the requirements for empanelment of a healthcare provider?,"They must be licensed, certified, and meet the quality standards set by the Ministry of Health."
+163,Can healthcare providers outside Kenya be empaneled?,"Yes, if they meet accreditation requirements and provide services unavailable in Kenya."
+164,What healthcare services must an empaneled provider offer?,Essential healthcare benefits as per their level of service and contractual obligations.
+165,What penalties apply for non-compliance by healthcare providers?,"Termination of contract, financial penalties, and possible legal action."
+166,Who pays for emergency medical services?,"The Emergency, Chronic, and Critical Illness Fund, provided the services are within the approved package."
+167,How are claims for emergency services processed?,"Submitted to the Claims Management Office, reviewed, and paid based on tariffs."
+168,What is the function of the Centralized Digital Platform?,"To manage registration, claims, payments, and data analytics for the insurance scheme."
+169,How do beneficiaries verify their identity at healthcare facilities?,"Through biometrics, a national ID, or a one-time password."
+170,What happens when a registered beneficiary fails to pay their contributions?,They may lose access to certain benefits until payments are updated.
+171,How does the Authority determine the financial ability of households?,"Through means testing, which considers housing, access to services, and income sources."
+172,Who is responsible for paying premiums for persons under lawful custody?,The Ministry responsible for correctional services.
+173,Can an employer delay submission of contributions?,"No, they must submit deductions by the ninth of each month to avoid penalties."
+174,What is the role of the Ministry of Social Protection in health insurance?,Identifying indigent households and ensuring their contributions are paid by the government.
+175,What is considered a chronic illness under the insurance scheme?,"A long-term condition requiring continuous medical care, such as diabetes or hypertension."
+176,What are the key factors considered in appraising a healthcare intervention?,"Cost-effectiveness, disease burden, feasibility, and clinical effectiveness."
+177,How can healthcare providers propose new services for coverage?,By submitting a request through the Benefits Package and Tariffs Advisory Panel.
+178,What are the obligations of a contracted healthcare facility?,"To provide quality services, maintain records, and comply with contractual terms."
+179,What healthcare services require pre-authorization?,Specialized services that involve high costs or complex procedures.
+180,How are healthcare providers monitored for compliance?,"Through audits, inspections, and quality assurance checks by the Authority."
+181,What factors influence the classification of healthcare zones?,"Population size, disease burden, and estimated claims volume."
+182,Who is responsible for reviewing denied claims?,An independent adjudication panel formed by the Claims Management Office.
+183,What recourse does a healthcare provider have if their contract is terminated?,They may appeal to the Dispute Resolution Tribunal.
+184,How often must the Authority update its beneficiary records?,"On a continuous basis, with mandatory updates for major life events."
+185,What is the penalty for submitting false patient information?,"Possible contract termination, legal action, and financial penalties."
+186,Can beneficiaries switch healthcare providers?,"Yes, but they must choose from empaneled providers and follow set procedures."
+187,How are tariffs for new treatments determined?,"Based on cost analysis, medical necessity, and market research."
+188,What obligations does a county government have in the insurance scheme?,Identifying indigent beneficiaries and ensuring contributions are remitted.
+189,Who provides oversight for the entire health insurance framework?,"The Cabinet Secretary, in consultation with the Authority and Advisory Panels."
+190,How does the scheme ensure equitable access to healthcare?,"By subsidizing indigents, ensuring fair tariffs, and expanding service coverage."
+191,What measures exist to prevent fraud in the claims process?,"Strict documentation, digital verification, and regular audits."
+192,Who can access services under the Essential Healthcare Benefits Package?,All registered beneficiaries with up-to-date contributions.
+193,What is the role of an actuary in determining tariffs?,Assessing financial risks and ensuring contributions are sufficient for coverage.
+194,Can private insurers participate in the scheme?,"Yes, as long as they comply with regulations and provide approved services."
+195,What happens if a healthcare provider refuses treatment for financial reasons?,"They may face penalties, contract termination, or legal action."
+196,What is the purpose of the Benefits Package and Tariffs Advisory Panel?,To advise the Cabinet Secretary and the Authority on essential healthcare benefits packages and applicable tariffs.
+197,How often are the essential healthcare benefits packages reviewed?,Every two years.
+198,Who appoints the Benefits Package and Tariffs Advisory Panel?,"The Cabinet Secretary, in consultation with relevant stakeholders."
+199,What are the qualifications for the Chairperson of the Benefits Package and Tariffs Advisory Panel?,"Must be a Kenyan citizen with at least ten years of experience in medicine, epidemiology, health economics, or health financing."
+200,What factors influence the selection of interventions for inclusion in the benefits package?,"Clinical effectiveness, disease burden, cost-effectiveness, budgetary impact, and feasibility."
+201,What process is followed when proposing an intervention?,"Stakeholders submit proposals through the Benefits Package and Tariffs Advisory Panel, which are reviewed for consideration."
+202,Who can propose healthcare interventions?,"Policymakers, academia, civil society organizations, health professional associations, and the public."
+203,How is data collected for setting healthcare tariffs?,"Through primary and secondary data analysis, actuarial studies, and cost assessments."
+204,Who approves the final healthcare tariffs?,"The Cabinet Secretary, after recommendations from the Benefits Package and Tariffs Advisory Panel."
+205,How are new healthcare interventions assessed?,"Through scientific evaluation by the Benefits Package and Tariffs Advisory Panel, with support from research institutions."
+206,What is the role of the Secretariat of the Benefits Package and Tariffs Advisory Panel?,To provide technical assistance and secretarial support to the panel.
+207,How does the Benefits Package and Tariffs Advisory Panel assess healthcare interventions?,"By conducting scientific evaluations, stakeholder consultations, and cost-benefit analysis."
+208,What is the significance of health technology assessment in determining tariffs?,"It ensures that healthcare interventions are cost-effective, clinically effective, and sustainable."
+209,Who conducts the economic analysis of healthcare interventions?,Actuarial experts and economists assigned by the Benefits Package and Tariffs Advisory Panel.
+210,What criteria are used to decide which interventions to include in the benefits package?,"Clinical need, cost-effectiveness, feasibility, and financial sustainability."
+211,How do stakeholders provide input on proposed tariffs?,"Through public consultations, stakeholder meetings, and written submissions."
+212,What is the final step in the process of approving healthcare tariffs?,Gazettement of the tariffs by the Cabinet Secretary after stakeholder engagement.
+213,What happens when a healthcare intervention is rejected for inclusion in the benefits package?,It may be reconsidered if additional evidence is provided to support its inclusion.
+214,What considerations are made when reviewing tariffs?,"Market trends, economic factors, inflation, and technological advancements."
+215,Who ensures compliance with the approved healthcare tariffs?,"The Authority, through audits and enforcement mechanisms."
+216,How often are tariffs reviewed?,"Every two years, or as determined by the Cabinet Secretary."
+217,What is the purpose of conducting stakeholder engagements in tariff setting?,"To ensure transparency, inclusivity, and fairness in determining healthcare costs."
+218,Who is responsible for setting the methodology for health technology assessment?,"The Ministry of Health, in collaboration with academic and research institutions."
+219,What is the penalty for failing to comply with approved tariffs?,"Fines, contract termination, and possible legal action."
+220,How does the Authority ensure affordability of healthcare services?,By setting fair tariffs based on economic analysis and market conditions.
+221,Can tariffs be adjusted based on emerging health crises?,"Yes, if justified by economic impact and healthcare needs."
+222,What role do county governments play in tariff setting?,They provide input on regional healthcare needs and cost considerations.
+223,What role does the private sector play in the benefits package review process?,They participate in consultations and provide data on healthcare service costs.
+224,How does the Benefits Package and Tariffs Advisory Panel incorporate feedback into its decisions?,By reviewing stakeholder submissions and making necessary adjustments.
+225,What happens if a proposed tariff is found to be too high?,It may be revised based on affordability assessments and public consultations.
+226,How does the Authority ensure financial sustainability of the insurance scheme?,"Through actuarial studies, contribution adjustments, and government funding."
+227,What steps are taken if a healthcare provider overcharges for services?,"They may face penalties, contract termination, or reimbursement demands."
+228,What measures are in place to prevent fraud in tariff claims?,"Digital verification, audits, and strict documentation requirements."
+229,Who oversees the enforcement of healthcare tariffs?,"The Authority, with oversight from the Cabinet Secretary and regulatory bodies."
+230,Can beneficiaries challenge a tariff decision?,"Yes, through an appeal process managed by the Authority and relevant tribunals."
+231,How does inflation affect healthcare tariffs?,Tariffs may be adjusted to reflect rising costs of medical supplies and services.
+232,What safeguards exist to protect vulnerable populations from excessive tariffs?,"Government subsidies, capped pricing, and exemptions for indigent groups."
+233,Who can request a review of an existing tariff?,"Stakeholders, including healthcare providers, policymakers, and the public."
+234,How does the Authority collect data on healthcare costs?,"Through hospital billing records, insurance claims, and market research."
+235,What role do international benchmarks play in tariff setting?,They provide guidance on fair pricing and cost-effectiveness standards.
+236,How are emergency healthcare tariffs determined?,"Based on historical data, cost of services, and expert consultations."
+237,Can a healthcare provider appeal a tariff reduction?,"Yes, by presenting justifiable reasons to the Benefits Package and Tariffs Advisory Panel."
+238,What happens when a new healthcare technology is introduced?,It is assessed for cost-effectiveness before inclusion in the benefits package.
+239,How does the insurance scheme ensure fair pricing for medications?,Through negotiations with pharmaceutical companies and market analysis.
+240,What impact does disease burden have on tariff setting?,Higher prevalence of diseases may lead to adjustments in service pricing.
+241,Who is responsible for ensuring equitable access to healthcare?,"The Authority, in collaboration with the Ministry of Health and stakeholders."
+242,How do actuarial studies contribute to tariff setting?,They help in financial forecasting and ensuring long-term sustainability.
+243,What is the significance of transparency in tariff determination?,It builds public trust and ensures fair pricing for healthcare services.
+244,What steps are taken to align tariffs with national health priorities?,Regular reviews based on government health policies and emerging needs.
+245,What happens if a healthcare provider charges beyond the approved tariffs?,"They may be penalized, and patients may be refunded excess charges."
+246,Can international healthcare providers participate in the tariff-setting process?,"Yes, if they provide services to Kenyan beneficiaries under the scheme."
+247,How does the insurance scheme address healthcare disparities?,By ensuring affordable tariffs and subsidies for low-income groups.
+248,What factors influence the periodic review of tariffs?,"Economic conditions, medical advancements, and healthcare demand trends."
+249,Who monitors the quality of healthcare services under the set tariffs?,"The Authority, through quality assurance audits and inspections."
+250,What happens if a healthcare intervention is deemed ineffective?,It may be removed from the benefits package after expert review.
+251,How does the government ensure funding for the insurance scheme?,"Through contributions, taxes, and budget allocations."
+252,What challenges affect the implementation of healthcare tariffs?,"Rising costs, fraud, and lack of compliance by providers."
+253,Who is responsible for policy adjustments in tariff regulations?,"The Cabinet Secretary, based on recommendations from the Benefits Package and Tariffs Advisory Panel."
+254,How does the government ensure fair distribution of healthcare resources?,By allocating funds based on population health needs and regional disparities.
+255,What mechanisms are in place to prevent price inflation in healthcare services?,"Regular tariff reviews, government price caps, and transparency measures."
+256,Who sets the guidelines for reviewing healthcare tariffs?,The Benefits Package and Tariffs Advisory Panel in consultation with the Ministry of Health.
+257,What happens if a provider refuses to adhere to set tariffs?,"They may face penalties, contract termination, or loss of accreditation."
+258,Can tariffs be adjusted in case of public health emergencies?,"Yes, if approved by the Cabinet Secretary based on an emergency assessment."
+259,How do digital health records contribute to tariff determination?,They provide accurate data on service usage and cost trends.
+260,Who ensures the integrity of the healthcare claims process?,"The Claims Management Office, through audits and fraud detection systems."
+261,How does the scheme address healthcare access in remote areas?,By subsidizing healthcare costs and empaneling more providers in underserved regions.
+262,What are the consequences of submitting fraudulent healthcare claims?,"Fines, legal action, contract termination, and possible criminal charges."
+263,What role does public participation play in tariff setting?,It ensures that tariffs reflect the needs and affordability of beneficiaries.
+264,Who approves the inclusion of new medical treatments in the benefits package?,"The Cabinet Secretary, based on recommendations from the Benefits Package and Tariffs Advisory Panel."
+265,What measures ensure that private healthcare providers do not exploit tariffs?,"Government oversight, regular audits, and strict penalties for non-compliance."
+266,How does the Authority ensure that healthcare providers offer quality services?,"Through licensing requirements, performance evaluations, and compliance checks."
+267,Can a tariff be revised before the scheduled two-year review?,"Yes, if significant economic changes or medical advancements justify it."
+268,What is the role of actuarial modeling in health insurance planning?,To project financial sustainability and determine fair contribution rates.
+269,How does the insurance scheme support the affordability of life-saving drugs?,By negotiating bulk purchasing agreements and setting price ceilings.
+270,What happens when healthcare costs exceed budget projections?,"The government may adjust tariffs, increase contributions, or seek additional funding."
+271,How do stakeholders influence the review of healthcare benefits?,By providing feedback during consultations and submitting data-driven proposals.
+272,What protections exist to prevent unfair cost-shifting to patients?,Regulations prohibiting out-of-pocket overcharges beyond approved tariffs.
+273,What legal framework governs the enforcement of healthcare tariffs?,The Social Health Insurance Act and accompanying regulations.
+274,Can a healthcare provider request an exemption from a set tariff?,"Yes, but it must be justified with financial data and approved by the Authority."
+275,What steps does the government take to curb rising healthcare costs?,Implementing preventive care programs and negotiating lower treatment costs.
+276,How does the scheme ensure timely reimbursement of claims?,Through digital claims processing and strict deadlines for approvals.
+277,What penalties exist for government agencies that delay remitting contributions?,"Legal consequences, financial penalties, and accountability measures."
+278,How does the scheme integrate with existing public health programs?,By aligning insurance benefits with national healthcare goals and services.
+279,What recourse do beneficiaries have if they are overcharged by a provider?,"They can report the issue to the Authority, which may impose penalties on the provider."
+280,How does the scheme promote preventive healthcare?,"By funding screening programs, vaccinations, and public health education."
+281,Can beneficiaries switch between different insurance plans?,"Yes, but they must remain within the approved network of empaneled providers."
+282,What impact do demographic changes have on tariff setting?,Aging populations and disease trends influence the allocation of healthcare resources.
+283,What happens if a healthcare provider fails a quality audit?,They may be required to improve services or risk losing their contract.
+284,How are tariffs set for specialized medical procedures?,"Based on cost analysis, medical expertise, and international benchmarks."
+285,What measures protect patients from surprise billing?,Strict enforcement of approved tariffs and transparency requirements for billing.
+286,How does the scheme address healthcare worker shortages?,By funding training programs and incentivizing providers in underserved areas.
+287,What steps are taken to ensure fair pricing for diagnostics and lab tests?,Government price controls and negotiated rates with healthcare providers.
+288,How does the government ensure financial accountability in the scheme?,"Through audits, budget reports, and independent oversight mechanisms."
+289,Can healthcare tariffs vary by region?,"Yes, based on cost differences and healthcare access disparities."
+290,What happens if a beneficiary cannot afford their insurance contribution?,They may receive financial assistance from the government if deemed indigent.
+291,What role do insurance providers play in administering tariffs?,They help process claims and ensure adherence to pricing guidelines.
+292,What impact does inflation have on healthcare contributions?,Contributions may be adjusted periodically to reflect economic changes.
+293,How does the scheme support long-term care services?,"By funding home-based care, rehabilitation, and chronic disease management."
+294,What safeguards are in place against corruption in healthcare reimbursements?,"Strict verification processes, audits, and legal penalties for fraud."
+295,What steps does the government take to expand healthcare access?,"By increasing insurance coverage, funding more facilities, and training personnel."
+296,Can beneficiaries opt for private healthcare outside the scheme?,"Yes, but they may have to pay additional costs if outside the approved network."
+297,What protections exist against excessive administrative costs?,Regulations capping operational expenses to ensure funds are used for patient care.
+298,How does the scheme address healthcare inequities?,By prioritizing vulnerable populations and providing targeted subsidies.
+299,What are the long-term sustainability goals of the insurance scheme?,To provide universal healthcare access while maintaining financial viability.
+300,What is the purpose of the Primary Healthcare Fund?,"To purchase primary healthcare services, pay health facilities, and establish a pool for receipt and payment of funds."
+301,Who is eligible to access healthcare under the Primary Healthcare Fund?,Every person resident in Kenya who is registered as a member of the Social Health Insurance Fund.
+302,What services are covered under the Primary Healthcare Fund?,"Promotive, preventive, curative, rehabilitative, palliative care, and referral services."
+303,What is the role of the Authority in financing the Primary Healthcare Fund?,To mobilize resources for purchasing primary healthcare services from health facilities.
+304,What is the Social Health Insurance Fund used for?,To pool all contributions and purchase healthcare services from contracted providers and facilities.
+305,Who must register with the Social Health Insurance Fund?,Every person resident in Kenya within 90 days of the regulations coming into effect.
+306,What documents are required for initial registration?,A national ID or an alternative approved document.
+307,How are children registered under the Social Health Insurance Fund?,"Through their parent or guardian, with a birth certificate or notification document."
+308,What happens when a beneficiary under the Social Health Insurance Fund dies?,The Authority deregisters the person and revokes their insurance card.
+309,How are contributions determined for salaried employees?,"A monthly deduction of 2.75% of gross salary, with a minimum contribution of Ksh 300."
+310,What is the contribution rate for non-salaried households?,"2.75% of household income, determined by a means testing instrument."
+311,Who pays contributions for indigent households?,"The National or County Government, as determined by means testing."
+312,Who contributes for persons under lawful custody?,The Ministry responsible for correctional services.
+313,How is means testing conducted?,Using socio-economic data collected from households.
+314,What are the obligations of an employer under the Social Health Insurance Fund?,To deduct and submit contributions for employees by the ninth of each month.
+315,What penalty is imposed for late contribution payments?,"A penalty as determined by the Authority, with notification sent to the contributor."
+316,How can a contributor request their account statement?,By submitting a request to the Authority.
+317,"What is the Emergency, Chronic and Critical Illness Fund used for?","To finance emergency services, critical care, and chronic illness treatment."
+318,"Who is eligible for benefits under the Emergency, Chronic and Critical Illness Fund?",Beneficiaries of the Social Health Insurance Fund who exhaust their primary benefits.
+319,"What services are covered under the Emergency, Chronic and Critical Illness Fund?","Emergency care, chronic illness treatment, and critical care services."
+320,"How are payments made from the Emergency, Chronic and Critical Illness Fund?","Based on claims submitted by healthcare providers, reviewed by the Claims Management Office."
+321,What is the national emergency medical care code used for?,Handling medical emergencies and informing beneficiaries of available services.
+322,What is empanelment in healthcare provision?,The process of selecting and registering healthcare providers for service delivery.
+323,Who can provide services under the Social Health Insurance Fund?,Licensed and contracted healthcare providers and facilities.
+324,How are healthcare providers contracted?,Through a public procurement process as per the Public Procurement and Asset Disposal Act.
+325,What happens if a contracted provider fails to meet standards?,"The contract is terminated, and they are removed from the list of service providers."
+326,Can Kenyan beneficiaries receive treatment outside the country?,"Yes, if the required treatment is unavailable in Kenya and approved by the Authority."
+327,What is required for treatment approval outside Kenya?,"A referral, medical history, and proof that the treatment is unavailable locally."
+328,Who determines the essential healthcare benefits packages?,"The Benefits Package and Tariffs Advisory Panel, reviewed every two years."
+329,What factors are considered when designing an essential benefits package?,"Clinical effectiveness, disease burden, cost-effectiveness, and feasibility."
+330,Who can propose new healthcare interventions?,"Stakeholders including policymakers, academia, NGOs, and health professionals."
+331,How are new healthcare interventions selected?,"Through a structured selection, assessment, and appraisal process."
+332,What is the role of the Benefits Package and Tariffs Advisory Panel?,To review and update benefit packages and tariffs based on data and assessments.
+333,How are tariffs for healthcare services determined?,"Using cost analysis, actuarial studies, and stakeholder engagement."
+334,What are the steps in setting new tariffs?,"Data collection, proposal, stakeholder engagement, recommendation, and approval."
+335,Who approves the final tariffs?,"The Cabinet Secretary, after recommendations from the Benefits Package and Tariffs Advisory Panel."
+336,How often are tariffs reviewed?,Every two years or as determined by the Cabinet Secretary.
+337,What factors influence tariff adjustments?,"Economic conditions, technological advancements, disease burden, and market dynamics."
+338,What is the role of the Claims Management Office?,"To process claims, conduct reviews, and handle pre-authorization requests."
+339,What is required when lodging a healthcare claim?,"Patient details, service description, amount claimed, and necessary supporting documents."
+340,How long does a healthcare provider have to submit a claim?,Within seven days from the patient's discharge.
+341,What happens if a claim has errors?,It is returned to the healthcare provider for correction.
+342,What is pre-authorization in healthcare?,Approval required before providing certain specialized services.
+343,What happens if a claim is found to be non-compliant?,"It is rejected, and if already paid, the healthcare provider may be asked to refund it."
+344,What is the Centralized Digital Platform?,"A system for managing beneficiary records, claims processing, and payments."
+345,How do healthcare providers verify patient eligibility?,"Using biometrics, national ID, or a one-time password."
+346,Who is responsible for maintaining accurate medical records?,Healthcare providers and facilities contracted under the scheme.
+347,How are disputes regarding claims handled?,Through an independent adjudication panel.
+348,What is the penalty for fraudulent claims?,Revocation of the contract and possible legal action.
+349,Who oversees compliance with the healthcare regulations?,"The Authority, through audits and quality assurance checks."
+350,What is the role of a medical insurance provider in claims processing?,"To review, verify, and submit claims for payment, ensuring compliance with regulations."
+351,What documents must be submitted for a healthcare claim?,"Social health insurance number, hospital registration number, patient details, clinical details, and claim amount."
+352,How long does the Claims Management Office have to process a pre-authorization request?,Within 72 hours of receiving the request.
+353,What happens if a claim is fraudulently submitted?,"The provider may be required to refund the amount, and their contract may be terminated."
+354,Who is responsible for monitoring compliance with tariffs and claims?,The Authority and the Benefits Package and Tariffs Advisory Panel.
+355,What are the main responsibilities of the Benefits Package and Tariffs Advisory Panel?,"Reviewing benefits and tariffs, assessing cost-effectiveness, and making recommendations."
+356,What is the eligibility requirement for the Chairperson of the Benefits Package and Tariffs Advisory Panel?,"A Kenyan citizen with at least 10 years of experience in health financing, medicine, or epidemiology."
+357,How often must the Benefits Package and Tariffs Advisory Panel meet?,At least twice a year.
+358,What happens if the Cabinet Secretary rejects a proposed tariff?,The Benefits Package and Tariffs Advisory Panel must review the reasons and propose adjustments.
+359,What data sources are used to determine healthcare tariffs?,"Primary data, secondary data, operational data, and actuarial analysis."
+360,What economic factors influence the revision of tariffs?,"Inflation, cost of medical equipment, changes in disease burden, and market trends."
+361,What is the main role of the Secretariat of the Benefits Package and Tariffs Advisory Panel?,Providing technical and administrative support to the panel.
+362,How is treatment outside Kenya authorized?,"By submitting a referral from a licensed doctor, medical history, and proof that the treatment is unavailable in Kenya."
+363,Which entity maintains medical records of treatment outside Kenya?,"The Authority, in compliance with the Digital Health Act and Data Protection Act."
+364,What are the requirements for empanelment of a healthcare provider?,"They must be licensed, certified, and meet the quality standards set by the Ministry of Health."
+365,Can healthcare providers outside Kenya be empaneled?,"Yes, if they meet accreditation requirements and provide services unavailable in Kenya."
+366,What healthcare services must an empaneled provider offer?,Essential healthcare benefits as per their level of service and contractual obligations.
+367,What penalties apply for non-compliance by healthcare providers?,"Termination of contract, financial penalties, and possible legal action."
+368,Who pays for emergency medical services?,"The Emergency, Chronic, and Critical Illness Fund, provided the services are within the approved package."
+369,How are claims for emergency services processed?,"Submitted to the Claims Management Office, reviewed, and paid based on tariffs."
+370,What is the function of the Centralized Digital Platform?,"To manage registration, claims, payments, and data analytics for the insurance scheme."
+371,How do beneficiaries verify their identity at healthcare facilities?,"Through biometrics, a national ID, or a one-time password."
+372,What happens when a registered beneficiary fails to pay their contributions?,They may lose access to certain benefits until payments are updated.
+373,How does the Authority determine the financial ability of households?,"Through means testing, which considers housing, access to services, and income sources."
+374,Who is responsible for paying premiums for persons under lawful custody?,The Ministry responsible for correctional services.
+375,Can an employer delay submission of contributions?,"No, they must submit deductions by the ninth of each month to avoid penalties."
+376,What is the role of the Ministry of Social Protection in health insurance?,Identifying indigent households and ensuring their contributions are paid by the government.
+377,What is considered a chronic illness under the insurance scheme?,"A long-term condition requiring continuous medical care, such as diabetes or hypertension."
+378,What are the key factors considered in appraising a healthcare intervention?,"Cost-effectiveness, disease burden, feasibility, and clinical effectiveness."
+379,How can healthcare providers propose new services for coverage?,By submitting a request through the Benefits Package and Tariffs Advisory Panel.
+380,What are the obligations of a contracted healthcare facility?,"To provide quality services, maintain records, and comply with contractual terms."
+381,What healthcare services require pre-authorization?,Specialized services that involve high costs or complex procedures.
+382,How are healthcare providers monitored for compliance?,"Through audits, inspections, and quality assurance checks by the Authority."
+383,What factors influence the classification of healthcare zones?,"Population size, disease burden, and estimated claims volume."
+384,Who is responsible for reviewing denied claims?,An independent adjudication panel formed by the Claims Management Office.
+385,What recourse does a healthcare provider have if their contract is terminated?,They may appeal to the Dispute Resolution Tribunal.
+386,How often must the Authority update its beneficiary records?,"On a continuous basis, with mandatory updates for major life events."
+387,What is the penalty for submitting false patient information?,"Possible contract termination, legal action, and financial penalties."
+388,Can beneficiaries switch healthcare providers?,"Yes, but they must choose from empaneled providers and follow set procedures."
+389,How are tariffs for new treatments determined?,"Based on cost analysis, medical necessity, and market research."
+390,What obligations does a county government have in the insurance scheme?,Identifying indigent beneficiaries and ensuring contributions are remitted.
+391,Who provides oversight for the entire health insurance framework?,"The Cabinet Secretary, in consultation with the Authority and Advisory Panels."
+392,How does the scheme ensure equitable access to healthcare?,"By subsidizing indigents, ensuring fair tariffs, and expanding service coverage."
+393,What measures exist to prevent fraud in the claims process?,"Strict documentation, digital verification, and regular audits."
+394,Who can access services under the Essential Healthcare Benefits Package?,All registered beneficiaries with up-to-date contributions.
+395,What is the role of an actuary in determining tariffs?,Assessing financial risks and ensuring contributions are sufficient for coverage.
+396,Can private insurers participate in the scheme?,"Yes, as long as they comply with regulations and provide approved services."
+397,What happens if a healthcare provider refuses treatment for financial reasons?,"They may face penalties, contract termination, or legal action."
+398,What is the purpose of the Benefits Package and Tariffs Advisory Panel?,To advise the Cabinet Secretary and the Authority on essential healthcare benefits packages and applicable tariffs.
+399,How often are the essential healthcare benefits packages reviewed?,Every two years.
+400,Who appoints the Benefits Package and Tariffs Advisory Panel?,"The Cabinet Secretary, in consultation with relevant stakeholders."
+401,What are the qualifications for the Chairperson of the Benefits Package and Tariffs Advisory Panel?,"Must be a Kenyan citizen with at least ten years of experience in medicine, epidemiology, health economics, or health financing."
+402,What factors influence the selection of interventions for inclusion in the benefits package?,"Clinical effectiveness, disease burden, cost-effectiveness, budgetary impact, and feasibility."
+403,What process is followed when proposing an intervention?,"Stakeholders submit proposals through the Benefits Package and Tariffs Advisory Panel, which are reviewed for consideration."
+404,Who can propose healthcare interventions?,"Policymakers, academia, civil society organizations, health professional associations, and the public."
+405,How is data collected for setting healthcare tariffs?,"Through primary and secondary data analysis, actuarial studies, and cost assessments."
+406,Who approves the final healthcare tariffs?,"The Cabinet Secretary, after recommendations from the Benefits Package and Tariffs Advisory Panel."
+407,How are new healthcare interventions assessed?,"Through scientific evaluation by the Benefits Package and Tariffs Advisory Panel, with support from research institutions."
+408,What is the role of the Secretariat of the Benefits Package and Tariffs Advisory Panel?,To provide technical assistance and secretarial support to the panel.
+409,How does the Benefits Package and Tariffs Advisory Panel assess healthcare interventions?,"By conducting scientific evaluations, stakeholder consultations, and cost-benefit analysis."
+410,What is the significance of health technology assessment in determining tariffs?,"It ensures that healthcare interventions are cost-effective, clinically effective, and sustainable."
+411,Who conducts the economic analysis of healthcare interventions?,Actuarial experts and economists assigned by the Benefits Package and Tariffs Advisory Panel.
+412,What criteria are used to decide which interventions to include in the benefits package?,"Clinical need, cost-effectiveness, feasibility, and financial sustainability."
+413,How do stakeholders provide input on proposed tariffs?,"Through public consultations, stakeholder meetings, and written submissions."
+414,What is the final step in the process of approving healthcare tariffs?,Gazettement of the tariffs by the Cabinet Secretary after stakeholder engagement.
+415,What happens when a healthcare intervention is rejected for inclusion in the benefits package?,It may be reconsidered if additional evidence is provided to support its inclusion.
+416,What considerations are made when reviewing tariffs?,"Market trends, economic factors, inflation, and technological advancements."
+417,Who ensures compliance with the approved healthcare tariffs?,"The Authority, through audits and enforcement mechanisms."
+418,How often are tariffs reviewed?,"Every two years, or as determined by the Cabinet Secretary."
+419,What is the purpose of conducting stakeholder engagements in tariff setting?,"To ensure transparency, inclusivity, and fairness in determining healthcare costs."
+420,Who is responsible for setting the methodology for health technology assessment?,"The Ministry of Health, in collaboration with academic and research institutions."
+421,What is the penalty for failing to comply with approved tariffs?,"Fines, contract termination, and possible legal action."
+422,How does the Authority ensure affordability of healthcare services?,By setting fair tariffs based on economic analysis and market conditions.
+423,Can tariffs be adjusted based on emerging health crises?,"Yes, if justified by economic impact and healthcare needs."
+424,What role do county governments play in tariff setting?,They provide input on regional healthcare needs and cost considerations.
+425,What role does the private sector play in the benefits package review process?,They participate in consultations and provide data on healthcare service costs.
+426,How does the Benefits Package and Tariffs Advisory Panel incorporate feedback into its decisions?,By reviewing stakeholder submissions and making necessary adjustments.
+427,What happens if a proposed tariff is found to be too high?,It may be revised based on affordability assessments and public consultations.
+428,How does the Authority ensure financial sustainability of the insurance scheme?,"Through actuarial studies, contribution adjustments, and government funding."
+429,What steps are taken if a healthcare provider overcharges for services?,"They may face penalties, contract termination, or reimbursement demands."
+430,What measures are in place to prevent fraud in tariff claims?,"Digital verification, audits, and strict documentation requirements."
+431,Who oversees the enforcement of healthcare tariffs?,"The Authority, with oversight from the Cabinet Secretary and regulatory bodies."
+432,Can beneficiaries challenge a tariff decision?,"Yes, through an appeal process managed by the Authority and relevant tribunals."
+433,How does inflation affect healthcare tariffs?,Tariffs may be adjusted to reflect rising costs of medical supplies and services.
+434,What safeguards exist to protect vulnerable populations from excessive tariffs?,"Government subsidies, capped pricing, and exemptions for indigent groups."
+435,Who can request a review of an existing tariff?,"Stakeholders, including healthcare providers, policymakers, and the public."
+436,How does the Authority collect data on healthcare costs?,"Through hospital billing records, insurance claims, and market research."
+437,What role do international benchmarks play in tariff setting?,They provide guidance on fair pricing and cost-effectiveness standards.
+438,How are emergency healthcare tariffs determined?,"Based on historical data, cost of services, and expert consultations."
+439,Can a healthcare provider appeal a tariff reduction?,"Yes, by presenting justifiable reasons to the Benefits Package and Tariffs Advisory Panel."
+440,What happens when a new healthcare technology is introduced?,It is assessed for cost-effectiveness before inclusion in the benefits package.
+441,How does the insurance scheme ensure fair pricing for medications?,Through negotiations with pharmaceutical companies and market analysis.
+442,What impact does disease burden have on tariff setting?,Higher prevalence of diseases may lead to adjustments in service pricing.
+443,Who is responsible for ensuring equitable access to healthcare?,"The Authority, in collaboration with the Ministry of Health and stakeholders."
+444,How do actuarial studies contribute to tariff setting?,They help in financial forecasting and ensuring long-term sustainability.
+445,What is the significance of transparency in tariff determination?,It builds public trust and ensures fair pricing for healthcare services.
+446,What steps are taken to align tariffs with national health priorities?,Regular reviews based on government health policies and emerging needs.
+447,What happens if a healthcare provider charges beyond the approved tariffs?,"They may be penalized, and patients may be refunded excess charges."
+448,Can international healthcare providers participate in the tariff-setting process?,"Yes, if they provide services to Kenyan beneficiaries under the scheme."
+449,How does the insurance scheme address healthcare disparities?,By ensuring affordable tariffs and subsidies for low-income groups.
+450,What factors influence the periodic review of tariffs?,"Economic conditions, medical advancements, and healthcare demand trends."
+451,Who monitors the quality of healthcare services under the set tariffs?,"The Authority, through quality assurance audits and inspections."
+452,What happens if a healthcare intervention is deemed ineffective?,It may be removed from the benefits package after expert review.
+453,How does the government ensure funding for the insurance scheme?,"Through contributions, taxes, and budget allocations."
+454,What challenges affect the implementation of healthcare tariffs?,"Rising costs, fraud, and lack of compliance by providers."
+455,Who is responsible for policy adjustments in tariff regulations?,"The Cabinet Secretary, based on recommendations from the Benefits Package and Tariffs Advisory Panel."
+456,How does the government ensure fair distribution of healthcare resources?,By allocating funds based on population health needs and regional disparities.
+457,What mechanisms are in place to prevent price inflation in healthcare services?,"Regular tariff reviews, government price caps, and transparency measures."
+458,Who sets the guidelines for reviewing healthcare tariffs?,The Benefits Package and Tariffs Advisory Panel in consultation with the Ministry of Health.
+459,What happens if a provider refuses to adhere to set tariffs?,"They may face penalties, contract termination, or loss of accreditation."
+460,Can tariffs be adjusted in case of public health emergencies?,"Yes, if approved by the Cabinet Secretary based on an emergency assessment."
+461,How do digital health records contribute to tariff determination?,They provide accurate data on service usage and cost trends.
+462,Who ensures the integrity of the healthcare claims process?,"The Claims Management Office, through audits and fraud detection systems."
+463,How does the scheme address healthcare access in remote areas?,By subsidizing healthcare costs and empaneling more providers in underserved regions.
+464,What are the consequences of submitting fraudulent healthcare claims?,"Fines, legal action, contract termination, and possible criminal charges."
+465,What role does public participation play in tariff setting?,It ensures that tariffs reflect the needs and affordability of beneficiaries.
+466,Who approves the inclusion of new medical treatments in the benefits package?,"The Cabinet Secretary, based on recommendations from the Benefits Package and Tariffs Advisory Panel."
+467,What measures ensure that private healthcare providers do not exploit tariffs?,"Government oversight, regular audits, and strict penalties for non-compliance."
+468,How does the Authority ensure that healthcare providers offer quality services?,"Through licensing requirements, performance evaluations, and compliance checks."
+469,Can a tariff be revised before the scheduled two-year review?,"Yes, if significant economic changes or medical advancements justify it."
+470,What is the role of actuarial modeling in health insurance planning?,To project financial sustainability and determine fair contribution rates.
+471,How does the insurance scheme support the affordability of life-saving drugs?,By negotiating bulk purchasing agreements and setting price ceilings.
+472,What happens when healthcare costs exceed budget projections?,"The government may adjust tariffs, increase contributions, or seek additional funding."
+473,How do stakeholders influence the review of healthcare benefits?,By providing feedback during consultations and submitting data-driven proposals.
+474,What protections exist to prevent unfair cost-shifting to patients?,Regulations prohibiting out-of-pocket overcharges beyond approved tariffs.
+475,What legal framework governs the enforcement of healthcare tariffs?,The Social Health Insurance Act and accompanying regulations.
+476,Can a healthcare provider request an exemption from a set tariff?,"Yes, but it must be justified with financial data and approved by the Authority."
+477,What steps does the government take to curb rising healthcare costs?,Implementing preventive care programs and negotiating lower treatment costs.
+478,How does the scheme ensure timely reimbursement of claims?,Through digital claims processing and strict deadlines for approvals.
+479,What penalties exist for government agencies that delay remitting contributions?,"Legal consequences, financial penalties, and accountability measures."
+480,How does the scheme integrate with existing public health programs?,By aligning insurance benefits with national healthcare goals and services.
+481,What recourse do beneficiaries have if they are overcharged by a provider?,"They can report the issue to the Authority, which may impose penalties on the provider."
+482,How does the scheme promote preventive healthcare?,"By funding screening programs, vaccinations, and public health education."
+483,Can beneficiaries switch between different insurance plans?,"Yes, but they must remain within the approved network of empaneled providers."
+484,What impact do demographic changes have on tariff setting?,Aging populations and disease trends influence the allocation of healthcare resources.
+485,What happens if a healthcare provider fails a quality audit?,They may be required to improve services or risk losing their contract.
+486,How are tariffs set for specialized medical procedures?,"Based on cost analysis, medical expertise, and international benchmarks."
+487,What measures protect patients from surprise billing?,Strict enforcement of approved tariffs and transparency requirements for billing.
+488,How does the scheme address healthcare worker shortages?,By funding training programs and incentivizing providers in underserved areas.
+489,What steps are taken to ensure fair pricing for diagnostics and lab tests?,Government price controls and negotiated rates with healthcare providers.
+490,How does the government ensure financial accountability in the scheme?,"Through audits, budget reports, and independent oversight mechanisms."
+491,Can healthcare tariffs vary by region?,"Yes, based on cost differences and healthcare access disparities."
+492,What happens if a beneficiary cannot afford their insurance contribution?,They may receive financial assistance from the government if deemed indigent.
+493,What role do insurance providers play in administering tariffs?,They help process claims and ensure adherence to pricing guidelines.
+494,What impact does inflation have on healthcare contributions?,Contributions may be adjusted periodically to reflect economic changes.
+495,How does the scheme support long-term care services?,"By funding home-based care, rehabilitation, and chronic disease management."
+496,What safeguards are in place against corruption in healthcare reimbursements?,"Strict verification processes, audits, and legal penalties for fraud."
+497,What steps does the government take to expand healthcare access?,"By increasing insurance coverage, funding more facilities, and training personnel."
+498,Can beneficiaries opt for private healthcare outside the scheme?,"Yes, but they may have to pay additional costs if outside the approved network."
+499,What protections exist against excessive administrative costs?,Regulations capping operational expenses to ensure funds are used for patient care.
+500,How does the scheme address healthcare inequities?,By prioritizing vulnerable populations and providing targeted subsidies.
+501,What are the long-term sustainability goals of the insurance scheme?,To provide universal healthcare access while maintaining financial viability.
+502,What is the purpose of assessing healthcare interventions?,"To determine their effectiveness, safety, and cost-efficiency before inclusion in the benefits package."
+503,Who is responsible for the appraisal of healthcare interventions?,The Benefits Package and Tariffs Advisory Panel.
+504,What criteria are used in the assessment of interventions?,"Clinical effectiveness, disease burden, cost-effectiveness, budget impact, and feasibility."
+505,How are tariffs for healthcare services determined?,"Through data collection, analysis, stakeholder engagement, and government approval."
+506,Who is responsible for setting healthcare tariffs?,"The Benefits Package and Tariffs Advisory Panel, which advises the Cabinet Secretary and the Authority."
+507,What happens after a healthcare tariff is proposed?,"It undergoes stakeholder engagement, review, recommendation, and approval before implementation."
+508,How are claims settled under the Social Health Insurance Fund?,"Healthcare providers submit claims, which are processed and validated before payment."
+509,What is required for a claim to be lodged by a healthcare provider?,"Patient details, social health insurance number, treatment details, and cost breakdown."
+510,What is pre-authorization in healthcare claims?,Approval required before providing certain high-cost or specialized treatments.
+511,How are disputes over claims handled?,Through an adjudication process managed by the Claims Management Office.
+512,What are the main components of claims processing?,"Lodging claims, verification, adjudication, and payment approval."
+513,Who oversees the processing of healthcare claims?,The Claims Management Office within the Authority.
+514,What is the role of a medical insurance provider in claims settlement?,"To verify claims, ensure compliance, and process payments for approved services."
+515,How long does a healthcare provider have to submit a claim?,Within seven days of the patient’s discharge.
+516,What happens if a claim is missing required information?,It is returned to the provider for correction before resubmission.
+517,What safeguards are in place to prevent fraudulent claims?,"Digital verification, audits, penalties for fraud, and strict documentation requirements."
+518,What is the penalty for submitting a false claim?,"Possible contract termination, fines, and legal action."
+519,How are rejected claims handled?,Providers can appeal and submit additional supporting documentation for reconsideration.
+520,What is the role of the independent adjudication panel in claims processing?,To resolve disputes over pre-authorization requests and claim denials.
+521,How does the scheme ensure transparency in claims processing?,"Through digital platforms, audits, and public reporting of expenditures."
+522,What factors influence the approval of a healthcare claim?,"Medical necessity, treatment provided, adherence to tariffs, and completeness of documentation."
+523,What happens if a healthcare provider consistently submits erroneous claims?,"They may face penalties, require additional training, or have their contract terminated."
+524,How does the scheme handle emergency medical claims?,"Emergency services are covered immediately, with post-treatment verification."
+525,What is the purpose of periodic healthcare audits?,"To ensure compliance, detect fraud, and improve service delivery efficiency."
+526,What role does the Centralized Digital Platform play in claims processing?,"It facilitates registration, verification, and real-time processing of healthcare claims."
+527,How do patients verify the status of their healthcare claims?,Through an online portal or by contacting the Claims Management Office.
+528,What measures ensure claims processing remains efficient?,"Automation, staff training, regular audits, and fraud prevention mechanisms."
+529,What happens if a beneficiary is denied treatment due to a claims issue?,They can report the issue to the Authority for immediate resolution.
+530,How does the scheme handle delayed payments to healthcare providers?,"Providers can escalate complaints to the Authority, which investigates and resolves delays."
+531,What happens if a healthcare provider refuses to honor an approved claim?,They may face contract termination and penalties for non-compliance.
+532,What factors determine the timeliness of claim reimbursements?,"Completeness of documentation, adherence to procedures, and workload at the Claims Office."
+533,Can beneficiaries file complaints about the claims process?,"Yes, through the Authority’s grievance resolution mechanism."
+534,How are international healthcare claims handled?,They require pre-approval and compliance with set tariffs and conditions.
+535,What recourse do providers have if they are penalized for claim errors?,They can appeal to the adjudication panel and provide justification.
+536,How does the government ensure affordability in healthcare claims?,"By regulating tariffs, negotiating fair pricing, and enforcing transparency."
+537,What happens when an unauthorized treatment is claimed?,"The claim is rejected, and the provider may face penalties."
+538,What is the main goal of pre-authorization for medical services?,To ensure cost control and appropriate use of healthcare resources.
+539,How does the scheme integrate with national health policies?,By aligning benefits with public health priorities and regulatory frameworks.
+540,What are the responsibilities of beneficiaries in the claims process?,To provide accurate personal information and report fraudulent activities.
+541,Can healthcare providers challenge a claim rejection?,"Yes, by submitting additional supporting evidence or requesting an appeal."
+542,What role do actuarial assessments play in claims processing?,They help forecast healthcare costs and ensure financial sustainability.
+543,What is the role of the Ministry of Health in healthcare claims?,"Providing policy direction, oversight, and setting healthcare quality standards."
+544,How does the scheme handle medical claims from public hospitals?,"Claims are processed in the same way as private healthcare providers, based on set tariffs."
+545,What is the purpose of stakeholder engagement in claims processing?,"To ensure fairness, efficiency, and transparency in reimbursements."
+546,What happens if a beneficiary is wrongly billed for a covered service?,"They can file a complaint, and the provider may be required to refund the charges."
+547,What steps does the Authority take to handle high claim volumes?,"Optimizing digital systems, increasing processing staff, and enhancing automation."
+548,Can an employer be held liable for claims-related issues?,"Yes, if they fail to remit contributions on time, affecting employee coverage."
+549,How does the government address fraudulent medical claims?,"By imposing legal penalties, conducting audits, and improving digital verification."
+550,What are the obligations of a healthcare provider regarding claims?,"To submit accurate claims, follow tariff guidelines, and comply with regulations."
+551,How are out-of-pocket expenses handled in the claims process?,Patients may be reimbursed if the expenses were for a covered service.
+552,What happens if a healthcare provider overcharges beyond set tariffs?,"They may be penalized, required to refund excess charges, or have their contract revoked."
+553,How does the insurance scheme manage claims for chronic illnesses?,By providing structured reimbursement models and prioritizing long-term care.
+554,What role do data analytics play in claims processing?,"To identify trends, detect fraud, and improve efficiency in claim settlements."
+555,How are disputes between insurers and healthcare providers resolved?,"Through mediation, arbitration, or legal proceedings if necessary."
+556,What impact does inflation have on healthcare claims?,It may lead to periodic tariff adjustments to reflect increased costs.
+557,Can a beneficiary directly submit a claim for reimbursement?,"In certain cases, such as emergency treatment outside the provider network."
+558,How does the scheme prevent unnecessary medical procedures?,By requiring pre-authorization for high-cost or elective treatments.
+559,What measures ensure claim fairness for all beneficiaries?,"Standardized processing rules, transparency, and appeals mechanisms."
+560,How does the Authority handle claims for rare medical conditions?,Through specialized review processes and expert consultations.
+561,What happens when a provider consistently submits inflated claims?,"They may face penalties, require corrective action, or lose their contract."
+562,How does the scheme support cost-effective treatment options?,"By encouraging generic medicines, preventive care, and cost-effective therapies."
+563,How can beneficiaries track their claim history?,Through the online portal or by requesting records from the Authority.
+564,What penalties apply to insurers who delay claim processing?,"They may be fined, required to compensate providers, or face legal action."
+565,How does the insurance scheme handle maternity claims?,"By covering prenatal, delivery, and postnatal services under set tariffs."
+566,How does the scheme ensure prompt claim payments?,By enforcing strict deadlines for claim processing and reimbursement.
+567,What role do medical ethics play in claim adjudication?,"To ensure fairness, patient rights, and adherence to professional standards."
+568,What happens if an error is found in a previously approved claim?,"It may be corrected, adjusted, or refunded if overpayment occurred."
+569,Can an employer dispute an employee’s healthcare claim?,Only if there is clear evidence of fraud or ineligibility.
+570,How are beneficiaries notified of claim approvals or rejections?,"Through SMS notifications, emails, or the digital claims platform."
+571,What happens if a healthcare provider closes before settling claims?,The Authority may arrange alternative payments or legal action against the provider.
+572,How does the insurance scheme handle accidental injury claims?,"They are covered under emergency care, with required documentation."
+573,How do international best practices influence claims processing?,"They provide guidelines for fraud prevention, efficiency, and cost control."
+574,What is the role of digital health records in claims management?,"They help track patient history, reduce fraud, and speed up claims processing."
+575,How does the scheme ensure that claims are processed fairly?,"By applying standardized rules, using automated systems, and allowing appeals."
+576,What penalties do healthcare providers face for billing errors?,"They may be fined, required to refund overcharges, or have their contracts terminated."
+577,How are claims for chronic disease management handled?,They are reviewed under specialized healthcare benefit packages for long-term conditions.
+578,What steps are taken to prevent duplicate claims?,"Automated systems flag duplicate claims, and audits are conducted to prevent overpayments."
+579,Can a beneficiary transfer unused healthcare benefits to another person?,"No, benefits are non-transferable and must be used by the registered beneficiary only."
+580,What is the process for filing a complaint about a denied claim?,The beneficiary or provider can file an appeal with the Claims Management Office.
+581,How does the insurance scheme handle pre-existing conditions?,"They are covered under specific healthcare plans, subject to policy terms and conditions."
+582,What happens if a healthcare provider misclassifies a treatment in a claim?,The claim may be rejected or require correction before approval.
+583,Can a beneficiary use multiple healthcare providers for the same condition?,"Yes, but referrals and coordination of care may be required for cost control."
+584,How does the scheme handle fraudulent beneficiary claims?,"They are investigated, and the individual may face penalties or suspension from coverage."
+585,What impact do medical advancements have on healthcare claims?,New treatments may be assessed and included in the benefits package if cost-effective.
+586,Who monitors the financial sustainability of the claims system?,"The Authority, in consultation with actuaries and government regulators."
+587,What role does predictive analytics play in healthcare claims management?,"It helps identify risk factors, detect fraud, and improve cost planning."
+588,How do beneficiaries know which services require pre-authorization?,A list of pre-authorized treatments is available through the Authority's website and service centers.
+589,Can a claim be processed if a beneficiary’s contribution payments are overdue?,"No, beneficiaries must have up-to-date contributions to access covered services."
+590,How does the scheme ensure fair pricing for emergency services?,Tariffs for emergency care are reviewed regularly to prevent overcharging.
+591,What are the consequences of unauthorized billing practices?,"Healthcare providers may face legal action, fines, or loss of accreditation."
+592,How does the insurance scheme address complaints about service delays?,"Beneficiaries can report issues to the Authority, which investigates and takes action."
+593,What protections exist for patients against unfair medical billing?,"Strict enforcement of tariffs, transparency in billing, and a complaints resolution process."
+594,What happens if a healthcare facility shuts down with pending claims?,The Claims Management Office may facilitate alternative payments or legal proceedings.
+595,How does the insurance scheme handle claims for specialized surgeries?,They require pre-authorization and must be performed at an empaneled facility.
+596,What measures are in place to prevent conflicts of interest in claims processing?,"Strict ethical guidelines, audits, and separation of duties within the Claims Management Office."
+597,Can a beneficiary change their preferred healthcare provider?,"Yes, but they must select from empaneled providers and follow the required process."
+598,What happens if a claim is approved but not paid on time?,The provider can escalate the issue to the Authority for resolution and compensation if necessary.
+599,"What does the Emergency, Chronic, and Critical Illness Fund (ECCF) cover?","It covers emergency services, critical care beyond SHIF limits, oncology services, and assistive devices for chronic conditions."
+600,What types of emergency services are covered under ECCF?,"Cardiac and pulmonary arrest, major trauma, severe wounds, multiple fractures, and pregnancy complications."
+601,Are ambulance and evacuation services covered under ECCF?,"Yes, ambulance and evacuation services are included in the emergency services package."
+602,What are the critical care services covered under ECCF?,"Intensive care, specialized medical equipment, and advanced life-support services beyond SHIF limits."
+603,Does ECCF cover immunosuppressive therapy?,"Yes, it covers post-renal transplant immunosuppressive therapy."
+604,What major traumas are included in ECCF coverage?,"Severe burns, head injuries, and multiple fractures requiring urgent care."
+605,What types of assistive devices are covered under ECCF?,"Devices for chronic conditions such as wheelchairs, prosthetics, and hearing aids."
+606,Does ECCF provide coverage for chronic disease management?,"Yes, including specialized treatments and long-term care for chronic conditions."
+607,What conditions qualify for emergency treatment under ECCF?,"Shock states, severe respiratory distress, acute coronary syndrome, and seizures."
+608,Are pregnancy complications covered under ECCF?,"Yes, it includes emergency obstetric care and maternal health services."
+609,How does ECCF support oncology patients?,It provides coverage for cancer treatments beyond the SHIF limits.
+610,Are medications covered under ECCF?,"Yes, including essential drugs for chronic and critical illness management."
+611,Does ECCF cover emergency surgeries?,"Yes, it includes surgeries for life-threatening conditions that require immediate intervention."
+612,What role does the Ministry of Health play in ECCF?,It oversees policy implementation and ensures funding for emergency healthcare services.
+613,Are diagnostic tests covered under ECCF?,"Yes, laboratory tests and imaging for emergency and critical care cases are covered."
+614,Does ECCF cover palliative care?,"Yes, for patients with chronic and life-limiting illnesses."
+615,How does ECCF ensure fair access to services?,By subsidizing costs and prioritizing patients based on medical urgency.
+616,What types of healthcare facilities are eligible to provide ECCF services?,Accredited hospitals and emergency medical centers contracted under the scheme.
+617,Can ECCF beneficiaries receive treatment abroad?,"Yes, but only if the treatment is unavailable locally and has government approval."
+618,What are the funding sources for ECCF?,"Government allocations, insurance contributions, and donor funding."
+619,Does ECCF cover rehabilitation services?,"Yes, including physiotherapy and occupational therapy for recovery after critical illness."
+620,How does ECCF handle referrals for specialized treatment?,Patients are referred through an approved medical evaluation process.
+621,Are mental health emergencies covered under ECCF?,"Yes, cases such as acute psychiatric crises are included in the package."
+622,What happens if a patient exhausts their ECCF benefits?,Additional support may be considered on a case-by-case basis.
+623,Are transportation costs covered under ECCF?,"Yes, for emergency evacuations and transfers to specialized facilities."
+624,What role do private healthcare providers play in ECCF?,They can offer services if contracted and compliant with set standards.
+625,How can a patient access ECCF benefits?,Through referral from an accredited healthcare provider and approval by the Authority.
+626,Does ECCF include coverage for newborn emergencies?,"Yes, neonatal intensive care and emergency pediatric services are covered."
+627,How does ECCF ensure transparency in funding allocation?,"Through audits, reporting mechanisms, and regulatory oversight."
+628,What is the primary goal of ECCF?,To improve access to quality emergency and critical care services while reducing financial burden on patients.
+629,Does ECCF cover dialysis for kidney failure?,"Yes, it provides coverage for emergency dialysis sessions for acute kidney injury."
+630,How are ECCF services prioritized?,"Based on medical urgency, severity of illness, and available funding."
+631,Can self-employed individuals access ECCF services?,"Yes, if they are registered and contribute to the Social Health Insurance Fund."
+632,Does ECCF cover rare diseases?,"Yes, but approval is required on a case-by-case basis."
+633,Are dental emergencies covered under ECCF?,"Yes, cases such as severe infections, fractures, and trauma to the mouth are covered."
+634,How does ECCF support burn victims?,"It covers emergency treatment, surgeries, and rehabilitation services for severe burns."
+635,What is the process for getting an assistive device under ECCF?,"A medical assessment is required, followed by approval from the Authority."
+636,Can ECCF cover home-based care?,"Yes, for eligible chronic and terminally ill patients requiring palliative care."
+637,Are air ambulance services covered?,"Yes, in cases where ground transport is not viable for critically ill patients."
+638,What is the appeals process if an ECCF claim is denied?,Patients or providers can submit an appeal with supporting medical documents.
+639,How does ECCF coordinate with private health insurance?,ECCF covers expenses beyond private insurance limits or for uninsured individuals.
+640,Can foreigners access ECCF services?,Only if they are registered contributors to the Social Health Insurance Fund.
+641,Does ECCF cover emergency psychiatric admissions?,"Yes, it includes stabilization and treatment for acute mental health crises."
+642,What documentation is needed to access ECCF benefits?,"National ID, insurance card, and a referral from a healthcare provider."
+643,Are vaccinations covered under ECCF?,"Only emergency vaccinations, such as rabies post-exposure prophylaxis."
+644,How does ECCF address drug shortages?,By working with the Ministry of Health to ensure essential drug availability.
+645,Can ECCF beneficiaries receive financial aid for travel expenses?,"Yes, in cases where treatment is not available in their locality."
+646,What role do county governments play in ECCF?,They help identify eligible beneficiaries and ensure service delivery compliance.
+647,Does ECCF cover prosthetic limb replacements?,"Yes, but eligibility and frequency of replacement depend on medical assessment."
+648,How does ECCF handle claims for multiple emergencies in one year?,Each case is reviewed individually to determine continued eligibility.
+649,Can family members request ECCF services on behalf of a patient?,"Yes, but they must provide valid identification and medical documentation."
+650,What happens if an ECCF-funded treatment is unsuccessful?,Follow-up treatments may be considered based on medical review.
+651,How does ECCF ensure sustainability of funds?,"Through budgetary planning, audits, and alternative funding sources."
+652,Can a patient choose their preferred hospital under ECCF?,"Yes, but only within the network of accredited healthcare facilities."
+653,Are rehabilitative therapies for stroke covered?,"Yes, including physiotherapy, occupational therapy, and speech therapy."
+654,Does ECCF cover wound care and dressings for chronic wounds?,"Yes, including diabetic foot ulcers and pressure sores."
+655,Are cancer screening tests covered under ECCF?,"No, but treatment for diagnosed cancer cases is covered."
+656,How does ECCF handle referrals for multiple conditions?,"Each condition is assessed separately, and treatment is prioritized based on urgency."
+657,Are orthopedic implants covered?,"Yes, for emergency orthopedic procedures such as fractures and joint replacements."
+658,"What is the Primary Healthcare Fund, and who is eligible for it?","The Primary Healthcare Fund provides essential healthcare services to eligible individuals, covering outpatient, inpatient, maternity, and specialized care."
+659,What healthcare services are covered under the Essential Healthcare Benefits Package?,"The Essential Healthcare Benefits Package covers outpatient, inpatient, maternity, mental health, oral health, eye health, ear health, screening, rehabilitative, palliative services, and assistive devices."
+660,Are there any exclusions or limitations to the healthcare services provided?,"Some exclusions or limitations may apply based on the specific healthcare facility, treatment plan, or availability of certain specialized services."
+661,"Do I need to register for this healthcare package, or is it automatically available?","Eligibility and registration requirements vary; some services may be automatically available, while others require enrollment."
+662,Are there any costs associated with accessing these healthcare benefits?,"The cost structure depends on eligibility criteria and specific services; some may be fully covered, while others may require co-payment."
+663,How can I find a health facility that offers services under this package?,Eligible healthcare facilities under this package can be found through the Ministry of Health or designated healthcare providers.
+664,What outpatient services are included in the Essential Healthcare Benefits Package?,"Outpatient services include consultations, diagnosis, treatment, laboratory investigations, radiology, prescription drugs, minor procedures, and immunizations."
+665,"Does the package cover consultations, diagnoses, and treatment?","Yes, consultations, diagnosis, and treatment are covered under outpatient services."
+666,Are laboratory tests and radiological examinations covered under outpatient care?,"Yes, prescribed laboratory tests and basic radiological examinations are covered."
+667,Which medications are covered under the prescription and drug administration benefits?,Essential prescription medications are covered under the package as per medical guidelines.
+668,Are chronic diseases such as diabetes and hypertension covered under outpatient services?,"Yes, outpatient services cover the management of non-severe chronic diseases such as diabetes and hypertension."
+669,Are minor surgical procedures included in the outpatient package?,"Yes, minor surgical and medical procedures are included in the outpatient services."
+670,"Is immunization covered, and which vaccines are included in the KEPI schedule?","Yes, immunization is covered as per the KEPI schedule and recommended special vaccines."
+671,What is covered under inpatient healthcare services?,"Inpatient services include hospital admission, accommodation, meals, nursing care, medical imaging, laboratory tests, and prescribed medications."
+672,Does the package cover hospital accommodation and meals?,"Yes, hospital accommodation, meals, and nursing care in a general ward bed are covered."
+673,Are bedside services such as physiotherapy and oxygen supply included?,"Yes, bedside services such as physiotherapy, occupational therapy, oxygen supply, and medical consumables are included."
+674,What post-discharge medications and follow-up treatments are covered?,"Yes, post-discharge medications and follow-up care are covered as part of the treatment plan."
+675,Does the package cover medical imaging and laboratory tests during admission?,"Yes, medical imaging and laboratory investigations during hospital admission are covered."
+676,What maternity services are covered under the package?,"Maternity services cover labor, delivery (normal and caesarean), postnatal care, newborn immunizations, and management of obstetric complications."
+677,Does the package cover both normal and caesarean deliveries?,"Yes, the package covers normal delivery, assisted delivery, and caesarean sections."
+678,What postnatal care services are available for mothers and newborns?,"Postnatal care includes mother and newborn care, midwifery, lactation support, prescribed medications, and medical supplies."
+679,"Are newborn vaccinations covered, and which ones are included?","Yes, newborns receive essential immunizations such as OPV zero and BCG vaccines."
+680,What mental and behavioral healthcare services are covered?,"Mental health services include screening, referral, and management of non-severe psychiatric and behavioral disorders."
+681,What dental services are included in the package?,"Oral healthcare services include consultation, preventive care, treatment of infections, tooth extractions, root canals, and dental surgical procedures."
+682,Are vision and eye care services covered under this package?,"Eye health services cover education, eye examinations, visual acuity tests, prescribed medications, and visual aids."
+683,What ear health services are available?,"Ear health services include education, management of non-severe ENT infections, prescribed medications, and basic ear treatments."
+684,What types of screening services are provided?,"Screening services include cancer screening (breast, cervical, prostate, colorectal), non-communicable diseases (BP, blood glucose, BMI), communicable diseases, and hearing impairment."
+685,What rehabilitative services are covered for physical and occupational therapy?,"Rehabilitative services include assessment and treatment for occupational, physical, and childhood development disorders."
+686,Does the package provide palliative care for chronic illnesses?,"Palliative care covers inpatient care, pain management, and assistive technologies for patients with chronic, life-limiting illnesses."
+687,"What assistive devices are covered, and how can I access them?",Assistive devices such as crutches and wheelchairs are provided for short-term use along with training for their proper use.
+688,Why was the shift to Universal Health Coverage necessary?,"To ensure that all Kenyans have access to quality, affordable and comprehensive quality health services from health promotion to prevention, curative, rehabilitation, and palliative care without suffering financial hardship."
+689,What is Social Health Insurance (SHI)?,It is a form of health financing mechanism based on risk and resource pooling to increase efficiency of the healthcare system that ensures that people pay for premiums into a pooled fund that can be used for those who need the services at no cost when they need the services.
+690,What are the Principles of Social Health Insurance?,"Accessible, quality, affordable healthcare services for all; Well-defined benefit package anchored in law; Mandatory registration and contribution; Equity."
+691,Why is Social Health Insurance important?,An efficient way of managing health funds – able to set and monitor administrative costs; An equitable way of managing health funds – funding based on need; Direct contributions from beneficiaries improves participation and transparency; Constitutional provisions exist allowing for targeting of funds for specific priorities/ geographical area.
+692,What are the 4 Health Laws?,The Social Health Insurance Law (2023); The Digital Health Act (2023); Facility Improvement Financing Law (2023); Primary Care Networks Law (2023).
+693,What informs the proposed reforms towards the SHI?,"The ultimate goal of a social health insurance system is to provide equitable and affordable access to healthcare services for all members of a society. To increase health insurance coverage. Existence of fragmented pools targeting different populations creates inefficiencies which result in increased cost of health services. SHI proposes 3 consolidated pools to address the inefficiencies. High number of Kenyans being subjected to financial constraints due to catastrophic illnesses. Promote equity and fairness in contribution, through households and not individuals."
+694,What is the difference between SHA and SHIF?,"SHA is the manager of the 3 Funds: PHCF, SHIF, and ECCF. The 3 funds have different mandates and their monies have different sources. The registration of members is done by SHA."
+695,What is the transition process from NHIF to SHA?,"Transition clause 2 (1) provides for the transfer of rights, powers, liabilities and duties to be taken over by SHA after the effective date of the Act i.e. 22nd November 2023."
+696,How will the transition process from NHIF to SHA be done?,"The Transition Committee, created in February 2024 will work for 6 months and the two boards (NHIF and SHA) in consultation with the Ministry of Health ensure the transition process is completed within the 12 months provided for in the law. The Committee will develop legal and institutional framework; guidelines and operational mechanism in regard to assets and liabilities, human resources and pensions and other staff benefits; and develop a clear roadmap for the winding up of NHIF by July 2024."
+697,What is Primary Health Care?,"It is essential health care based on practical, scientifically sound and socially acceptable methods and technology that is made universally accessible to individuals and families in the community."
+698,Who is eligible to access the Primary Healthcare Fund?,All persons residing in Kenya.
+699,How will I register for the Primary Healthcare Fund?,Registration for Social Health Insurance will be an automatic registration for the Primary Healthcare Fund.
+700,Will I have to contribute to the Primary Healthcare Fund?,"No, there will be no individual contributions to the Primary Healthcare Fund. The main source of funding will be allocation from the government and grants."
+701,"What is the Emergency, Chronic and Critical Illness Fund?",This is a fund established to provide money to pay the costs of management of chronic illnesses after depletion of the SHI over and to cover the costs of emergency treatment.
+702,"Who will be eligible to register to the Emergency, Chronic and Critical Illness Fund?","An individual registered to the Social Health Authority will be able to access medical services under the Emergency, Chronic and Critical Illness Fund."
+703,What is the purpose of the Primary Healthcare Fund?,Purchase primary healthcare services from primary healthcare facilities. Pay health facilities for providing quality primary healthcare services. Establish a pool for receipt and payment of funds for primary healthcare.
+704,Who is required to register under the Social Health Insurance Act?,Every person resident in Kenya is required to register under the Act to access healthcare services.
+705,What services are covered under the Primary Healthcare Fund?,"Promotive services, Preventive services, Curative services, Rehabilitative services, Palliative care services, Referral services."
+706,How is the Social Health Insurance Fund financed?,Contributions from households with salaried employment. Contributions from non-salaried households. Government contributions for indigents. Other resources mobilized by the Authority.
+707,What is the contribution rate for salaried employees?,"Households with income from salaried employment must contribute 2.75% of their gross salary, with a minimum contribution of Kshs. 300 per month."
+708,What happens in case of the death of a beneficiary?,"The beneficiary is deregistered, and the social health insurance number and card are revoked. However, dependents may continue to access benefits until the paid contribution period expires."
+709,What are the obligations of an employer under the Act?,Employers must deduct and remit contributions for their employees. Inform the Authority of any employment status changes. Notify the Authority of employment termination within 30 days.
+710,"What is the function of the Emergency, Chronic, and Critical Illness Fund?","The fund ensures access to quality emergency, chronic, and critical illness treatment. Financing of emergency medical care."
+711,What is empanelment and contracting in healthcare provision?,Healthcare providers and facilities must be empaneled and contracted by the Authority to receive payments for services provided under the Social Health Insurance Fund.
+712,Can a beneficiary receive treatment outside Kenya?,"Yes, if the required treatment is unavailable in Kenya and is provided by a healthcare provider or facility contracted by the Authority."
+713,What are 'zones' in the Social Health Insurance Act (SHA)?,"Zones are geographical areas used to manage claims, categorized based on population size, disease burden, geographical size, and estimated claims."
+714,How are zones categorized in SHA?,"They are categorized based on population size, disease burden, geographical size, and estimated claims from existing records and data."
+715,Can a medical insurance provider be assigned multiple zones?,"No, each provider can only be assigned one zone, but a consortium of providers may be assigned a single zone."
+716,What happens if a medical insurance provider becomes insolvent?,Their contract can be terminated under the Insolvency Act.
+717,What are the grounds for terminating a contract with a medical insurance provider?,"Insolvency, revocation of license or registration, and fraudulent activities."
+718,Can a provider appeal the termination of their contract?,"Yes, they can appeal to the Dispute Resolution Tribunal."
+719,Which counties fall under Zone 1?,"Mandera, Samburu, and Nairobi."
+720,Which counties fall under Zone 2?,"Kiambu, Nakuru, and Murang’a."
+721,Which counties are in Zone 3?,"Trans Nzoia, Kakamega, Bungoma, Busia, and Turkana."
+722,What are the counties in Zone 4?,"Siaya, Meru, Embu, Isiolo, Tharaka Nithi, and Garissa."
+723,Which counties are included in Zone 5?,"Nyeri, Wajir, Makueni, Kwale, Taita Taveta, Kajiado, Kisii, Nyamira, and Bomet."
+724,What counties make up Zone 6?,"Kirinyaga, Kitui, Machakos, Nyandarua, Laikipia, and Kisumu."
+725,Which counties belong to Zone 7?,"Marsabit, Narok, Nandi, Kericho, Baringo, Uasin Gishu, West Pokot, Elgeyo Marakwet, and Vihiga."
+726,Which counties are in Zone 8?,"Migori, Homa Bay, Lamu, Kilifi, Mombasa, and Tana River."
+727,What is the purpose of creating zones?,"To streamline claims management, improve efficiency, and ensure fair resource allocation."
+728,Who determines the allocation of zones?,"The SHA Authority, based on criteria such as disease burden and population size."
+729,How often are zones reviewed?,Zones may be reviewed periodically based on data analysis and population health risks.
+730,Can zones be modified?,"Yes, based on emerging data, disease burden, and population growth."
+731,What role does a claim settling agent play in zones?,They handle claims within their assigned zones to ensure efficient processing.
+732,What is the main regulatory framework governing zones?,"The Social Health Insurance (General) Regulations, 2023 under the Social Health Insurance Act (No. 16 of 2023)."
+733,"[General Information] What is the purpose of the Social Health Insurance Act, 2023?",The Act aims to provide accessible and affordable healthcare services to all registered individuals.
+734,[Registration] Who is eligible to register under the Social Health Insurance scheme?,"All citizens and legal residents are eligible, subject to specific criteria outlined in the Act."
+735,[Contributions & Premiums] How can I register for social health insurance?,You can register online through the Authority’s portal or visit a designated registration center.
+736,[Coverage & Benefits] What documents are required for registration?,"You need a national ID or passport, proof of residence, and in some cases, biometric data."
+737,[Emergency Services] How much is the base premium for social health insurance?,The base premium varies depending on income level and specific contribution categories.
+738,[Biometric Data] Can I include my family members in my insurance coverage?,"Yes, registered contributors can include dependents such as spouses and children."
+739,[Compliance & Enforcement] What healthcare services are covered under the scheme?,"The scheme covers outpatient care, inpatient services, maternity care, and emergency services."
+740,[Claims & Reimbursements] Does the insurance cover pre-existing conditions?,"Yes, pre-existing conditions are covered, but waiting periods may apply for certain treatments."
+741,[General Information] What happens if I fail to pay my premiums?,Failure to pay premiums may lead to suspension of benefits until payments are resumed.
+742,[Registration] Is there a penalty for late premium payments?,"Yes, late payments may attract penalties as specified in the regulations."
+743,[Contributions & Premiums] How do I access emergency medical care under this scheme?,"Emergency care is covered, and registered beneficiaries can use designated healthcare providers."
+744,[Coverage & Benefits] Are ambulance services covered by the insurance?,"Yes, ambulance services for emergency situations are covered under the scheme."
+745,"[Emergency Services] What is biometric registration, and why is it required?","Biometric registration ensures unique identification using fingerprints, retina scans, or voice recognition."
+746,[Biometric Data] Is my biometric data safe with the Authority?,"Yes, biometric data is securely stored and used only for authentication and verification purposes."
+747,[Compliance & Enforcement] Can I opt out of biometric registration?,"No, biometric registration is mandatory for all beneficiaries under the scheme."
+748,[Claims & Reimbursements] What should I do if I lose my biometric identification?,You should report to the Authority for re-registration and verification.
+749,[General Information] What penalties apply for fraudulent insurance claims?,"Fraudulent claims may result in fines, legal action, and permanent disqualification from the scheme."
+750,[Registration] Can I transfer my social health insurance benefits if I move to another region?,"Yes, benefits are transferable within covered regions and approved facilities."
+751,[Contributions & Premiums] How do I file a claim for reimbursement?,Claims can be filed online or at designated offices with the required supporting documents.
+752,[Coverage & Benefits] How long does it take to process a reimbursement claim?,Processing times vary but typically take between 14 to 30 working days.
+753,"[Emergency Services] What is the purpose of the Social Health Insurance Act, 2023?",The Act aims to provide accessible and affordable healthcare services to all registered individuals.
+754,[Biometric Data] Who is eligible to register under the Social Health Insurance scheme?,"All citizens and legal residents are eligible, subject to specific criteria outlined in the Act."
+755,[Compliance & Enforcement] How can I register for social health insurance?,You can register online through the Authority’s portal or visit a designated registration center.
+756,[Claims & Reimbursements] What documents are required for registration?,"You need a national ID or passport, proof of residence, and in some cases, biometric data."
+757,[General Information] How much is the base premium for social health insurance?,The base premium varies depending on income level and specific contribution categories.
+758,[Registration] Can I include my family members in my insurance coverage?,"Yes, registered contributors can include dependents such as spouses and children."
+759,[Contributions & Premiums] What healthcare services are covered under the scheme?,"The scheme covers outpatient care, inpatient services, maternity care, and emergency services."
+760,[Coverage & Benefits] Does the insurance cover pre-existing conditions?,"Yes, pre-existing conditions are covered, but waiting periods may apply for certain treatments."
+761,[Emergency Services] What happens if I fail to pay my premiums?,Failure to pay premiums may lead to suspension of benefits until payments are resumed.
+762,[Biometric Data] Is there a penalty for late premium payments?,"Yes, late payments may attract penalties as specified in the regulations."
+763,[Compliance & Enforcement] How do I access emergency medical care under this scheme?,"Emergency care is covered, and registered beneficiaries can use designated healthcare providers."
+764,[Claims & Reimbursements] Are ambulance services covered by the insurance?,"Yes, ambulance services for emergency situations are covered under the scheme."
+765,"[General Information] What is biometric registration, and why is it required?","Biometric registration ensures unique identification using fingerprints, retina scans, or voice recognition."
+766,[Registration] Is my biometric data safe with the Authority?,"Yes, biometric data is securely stored and used only for authentication and verification purposes."
+767,[Contributions & Premiums] Can I opt out of biometric registration?,"No, biometric registration is mandatory for all beneficiaries under the scheme."
+768,[Coverage & Benefits] What should I do if I lose my biometric identification?,You should report to the Authority for re-registration and verification.
+769,[Emergency Services] What penalties apply for fraudulent insurance claims?,"Fraudulent claims may result in fines, legal action, and permanent disqualification from the scheme."
+770,[Biometric Data] Can I transfer my social health insurance benefits if I move to another region?,"Yes, benefits are transferable within covered regions and approved facilities."
+771,[Compliance & Enforcement] How do I file a claim for reimbursement?,Claims can be filed online or at designated offices with the required supporting documents.
+772,[Claims & Reimbursements] How long does it take to process a reimbursement claim?,Processing times vary but typically take between 14 to 30 working days.
+773,"[General Information] What is the purpose of the Social Health Insurance Act, 2023?",The Act aims to provide accessible and affordable healthcare services to all registered individuals.
+774,[Registration] Who is eligible to register under the Social Health Insurance scheme?,"All citizens and legal residents are eligible, subject to specific criteria outlined in the Act."
+775,[Contributions & Premiums] How can I register for social health insurance?,You can register online through the Authority’s portal or visit a designated registration center.
+776,[Coverage & Benefits] What documents are required for registration?,"You need a national ID or passport, proof of residence, and in some cases, biometric data."
+777,[Emergency Services] How much is the base premium for social health insurance?,The base premium varies depending on income level and specific contribution categories.
+778,[Biometric Data] Can I include my family members in my insurance coverage?,"Yes, registered contributors can include dependents such as spouses and children."
+779,[Compliance & Enforcement] What healthcare services are covered under the scheme?,"The scheme covers outpatient care, inpatient services, maternity care, and emergency services."
+780,[Claims & Reimbursements] Does the insurance cover pre-existing conditions?,"Yes, pre-existing conditions are covered, but waiting periods may apply for certain treatments."
+781,[General Information] What happens if I fail to pay my premiums?,Failure to pay premiums may lead to suspension of benefits until payments are resumed.
+782,[Registration] Is there a penalty for late premium payments?,"Yes, late payments may attract penalties as specified in the regulations."
+783,[Contributions & Premiums] How do I access emergency medical care under this scheme?,"Emergency care is covered, and registered beneficiaries can use designated healthcare providers."
+784,[Coverage & Benefits] Are ambulance services covered by the insurance?,"Yes, ambulance services for emergency situations are covered under the scheme."
+785,"[Emergency Services] What is biometric registration, and why is it required?","Biometric registration ensures unique identification using fingerprints, retina scans, or voice recognition."
+786,[Biometric Data] Is my biometric data safe with the Authority?,"Yes, biometric data is securely stored and used only for authentication and verification purposes."
+787,[Compliance & Enforcement] Can I opt out of biometric registration?,"No, biometric registration is mandatory for all beneficiaries under the scheme."
+788,[Claims & Reimbursements] What should I do if I lose my biometric identification?,You should report to the Authority for re-registration and verification.
+789,[General Information] What penalties apply for fraudulent insurance claims?,"Fraudulent claims may result in fines, legal action, and permanent disqualification from the scheme."
+790,[Registration] Can I transfer my social health insurance benefits if I move to another region?,"Yes, benefits are transferable within covered regions and approved facilities."
+791,[Contributions & Premiums] How do I file a claim for reimbursement?,Claims can be filed online or at designated offices with the required supporting documents.
+792,[Coverage & Benefits] How long does it take to process a reimbursement claim?,Processing times vary but typically take between 14 to 30 working days.
+793,"[Emergency Services] What is the purpose of the Social Health Insurance Act, 2023?",The Act aims to provide accessible and affordable healthcare services to all registered individuals.
+794,[Biometric Data] Who is eligible to register under the Social Health Insurance scheme?,"All citizens and legal residents are eligible, subject to specific criteria outlined in the Act."
+795,[Compliance & Enforcement] How can I register for social health insurance?,You can register online through the Authority’s portal or visit a designated registration center.
+796,[Claims & Reimbursements] What documents are required for registration?,"You need a national ID or passport, proof of residence, and in some cases, biometric data."
+797,[General Information] How much is the base premium for social health insurance?,The base premium varies depending on income level and specific contribution categories.
+798,[Registration] Can I include my family members in my insurance coverage?,"Yes, registered contributors can include dependents such as spouses and children."
+799,[Contributions & Premiums] What healthcare services are covered under the scheme?,"The scheme covers outpatient care, inpatient services, maternity care, and emergency services."
+800,[Coverage & Benefits] Does the insurance cover pre-existing conditions?,"Yes, pre-existing conditions are covered, but waiting periods may apply for certain treatments."
+801,[Emergency Services] What happens if I fail to pay my premiums?,Failure to pay premiums may lead to suspension of benefits until payments are resumed.
+802,[Biometric Data] Is there a penalty for late premium payments?,"Yes, late payments may attract penalties as specified in the regulations."
+803,[Compliance & Enforcement] How do I access emergency medical care under this scheme?,"Emergency care is covered, and registered beneficiaries can use designated healthcare providers."
+804,[Claims & Reimbursements] Are ambulance services covered by the insurance?,"Yes, ambulance services for emergency situations are covered under the scheme."
+805,"[General Information] What is biometric registration, and why is it required?","Biometric registration ensures unique identification using fingerprints, retina scans, or voice recognition."
+806,[Registration] Is my biometric data safe with the Authority?,"Yes, biometric data is securely stored and used only for authentication and verification purposes."
+807,[Contributions & Premiums] Can I opt out of biometric registration?,"No, biometric registration is mandatory for all beneficiaries under the scheme."
+808,[Coverage & Benefits] What should I do if I lose my biometric identification?,You should report to the Authority for re-registration and verification.
+809,[Emergency Services] What penalties apply for fraudulent insurance claims?,"Fraudulent claims may result in fines, legal action, and permanent disqualification from the scheme."
+810,[Biometric Data] Can I transfer my social health insurance benefits if I move to another region?,"Yes, benefits are transferable within covered regions and approved facilities."
+811,[Compliance & Enforcement] How do I file a claim for reimbursement?,Claims can be filed online or at designated offices with the required supporting documents.
+812,[Claims & Reimbursements] How long does it take to process a reimbursement claim?,Processing times vary but typically take between 14 to 30 working days.
+813,"[General Information] What is the purpose of the Social Health Insurance Act, 2023?",The Act aims to provide accessible and affordable healthcare services to all registered individuals.
+814,[Registration] Who is eligible to register under the Social Health Insurance scheme?,"All citizens and legal residents are eligible, subject to specific criteria outlined in the Act."
+815,[Contributions & Premiums] How can I register for social health insurance?,You can register online through the Authority’s portal or visit a designated registration center.
+816,[Coverage & Benefits] What documents are required for registration?,"You need a national ID or passport, proof of residence, and in some cases, biometric data."
+817,[Emergency Services] How much is the base premium for social health insurance?,The base premium varies depending on income level and specific contribution categories.
+818,[Biometric Data] Can I include my family members in my insurance coverage?,"Yes, registered contributors can include dependents such as spouses and children."
+819,[Compliance & Enforcement] What healthcare services are covered under the scheme?,"The scheme covers outpatient care, inpatient services, maternity care, and emergency services."
+820,[Claims & Reimbursements] Does the insurance cover pre-existing conditions?,"Yes, pre-existing conditions are covered, but waiting periods may apply for certain treatments."
+821,[General Information] What happens if I fail to pay my premiums?,Failure to pay premiums may lead to suspension of benefits until payments are resumed.
+822,[Registration] Is there a penalty for late premium payments?,"Yes, late payments may attract penalties as specified in the regulations."
+823,[Contributions & Premiums] How do I access emergency medical care under this scheme?,"Emergency care is covered, and registered beneficiaries can use designated healthcare providers."
+824,[Coverage & Benefits] Are ambulance services covered by the insurance?,"Yes, ambulance services for emergency situations are covered under the scheme."
+825,"[Emergency Services] What is biometric registration, and why is it required?","Biometric registration ensures unique identification using fingerprints, retina scans, or voice recognition."
+826,[Biometric Data] Is my biometric data safe with the Authority?,"Yes, biometric data is securely stored and used only for authentication and verification purposes."
+827,[Compliance & Enforcement] Can I opt out of biometric registration?,"No, biometric registration is mandatory for all beneficiaries under the scheme."
+828,[Claims & Reimbursements] What should I do if I lose my biometric identification?,You should report to the Authority for re-registration and verification.
+829,[General Information] What penalties apply for fraudulent insurance claims?,"Fraudulent claims may result in fines, legal action, and permanent disqualification from the scheme."
+830,[Registration] Can I transfer my social health insurance benefits if I move to another region?,"Yes, benefits are transferable within covered regions and approved facilities."
+831,[Contributions & Premiums] How do I file a claim for reimbursement?,Claims can be filed online or at designated offices with the required supporting documents.
+832,[Coverage & Benefits] How long does it take to process a reimbursement claim?,Processing times vary but typically take between 14 to 30 working days.
+833,What is the purpose of the Social Health Insurance Fund?,To establish a pool of all contributions and purchase healthcare services from empanelled and contracted healthcare providers.
+834,Who is required to register for the Social Health Insurance Fund?,Every person resident in Kenya must register within ninety days of the regulations coming into effect.
+835,What documents are needed for registration?,A copy of the national identification document or any other approved document if unavailable.
+836,What happens if a child has no form of identification?,A document provided by the state department responsible for social protection is required for registration.
+837,How long does the Authority take to notify an applicant of registration?,The Authority must notify the applicant within fourteen days of registration.
+838,What is the contribution rate for salaried households?,"2.75% of the gross salary or wage, with a minimum of Kshs. 300 per month."
+839,Who deducts contributions for public servants?,The Cabinet Secretary to the National Treasury deducts and remits contributions for public servants.
+840,How are contributions determined for non-salaried households?,An annual contribution of 2.75% of household income is determined using a means testing instrument.
+841,What is the purpose of the Primary Healthcare Fund?,To finance and purchase primary healthcare services from primary healthcare facilities.
+842,What services are covered under the Primary Healthcare Fund?,"Promotive, preventive, curative, rehabilitative, palliative, and referral services."
+843,What are the obligations of an employer regarding contributions?,An employer must deduct and submit contributions for salaried employees by the ninth day of each month.
+844,What happens if an employer fails to remit contributions?,The employer may face penalties imposed by the Authority for late or non-remittance of contributions.
+845,How can a contributor obtain a statement of account?,"A contributor may request a statement from the Authority, which includes details on contributions, beneficiaries, benefits paid, and penalties if any."
+846,"What is the Emergency, Chronic, and Critical Illness Fund used for?","To ensure access to emergency services, critical care, and treatment for chronic illnesses."
+847,"Who is eligible for benefits under the Emergency, Chronic, and Critical Illness Fund?",Any beneficiary under the Social Health Insurance Fund is entitled to benefits under this fund.
+848,How are payments from the Social Health Insurance Fund processed?,"Healthcare providers must lodge claims with the Claims Management Office, which are paid based on prescribed tariffs."
+849,What is the process for registering a child under the insurance scheme?,"A child is registered under the contributor's cover, requiring supporting documentation for verification."
+850,What does the means testing process involve?,The Authority collects data on socioeconomic factors to determine household income and appropriate contribution rates.
+851,Who is responsible for paying contributions for persons under lawful custody?,The Ministry responsible for correctional services is liable for contributions of persons in lawful custody.
+852,What are the benefits of digital verification of contributions?,Public entities can verify contribution status through a Centralized Digital Platform to ensure compliance before issuing services.
+853,Additional question 21,Additional answer 21
+854,What happens if a person above 25 years has no income?,They are treated as a separate household and must pay Kshs. 300 per month.
+855,How does the government identify households in need of financial assistance?,Using a means testing instrument developed in collaboration with the Ministry of Health and Social Protection.
+856,Who pays contributions for indigent households?,"The National Government or County Government, as identified through means testing."
+857,What is the penalty for late payment of contributions?,"The Authority imposes penalties for late or non-payment, which must be remitted accordingly."
+858,What is the process for amending beneficiaries?,A contributor submits Form 1 with supporting documents such as a marriage certificate for a spouse or birth certificate for a child.
+859,How can a healthcare provider receive payments from the Social Health Insurance Fund?,"The provider must lodge a claim with the Claims Management Office, which processes payments based on approved tariffs."
+860,What is required for treatment outside Kenya?,"A referral from a doctor and approval from the Authority, ensuring the treatment is unavailable locally."
+861,"What services are covered under the Emergency, Chronic, and Critical Illness Fund?","Emergency medical care, critical care services, and chronic illness management beyond Social Health Insurance Fund benefits."
+862,What documents must a contributor provide for biometric registration?,A national ID or other government-issued identification for verification.
+863,What is the responsibility of a healthcare provider under this insurance scheme?,"They must provide quality services, maintain records, and comply with contract terms and quality assurance guidelines."
+864,How are tariffs determined for healthcare services?,The Benefits Package and Tariffs Advisory Panel reviews and recommends tariffs based on cost analysis and budget impact.
+865,What role does the Centralized Digital Platform play in claims processing?,"It facilitates claims submission, verification, adjudication, and payments, improving efficiency and transparency."
+866,What is the process for lodging a claim by a healthcare provider?,"Claims must be submitted within seven days of patient discharge, including medical details and cost breakdowns."
+867,Who determines whether an intervention should be included in the benefits package?,"The Benefits Package and Tariffs Advisory Panel, based on cost-effectiveness, disease burden, and public health impact."
+868,How often are the essential healthcare benefits packages reviewed?,"Every two years, or as determined by the Cabinet Secretary in consultation with the Board of the Authority."
+869,What happens if a contributor dies?,"The Principal Registrar of Births and Deaths notifies the Authority, and the deceased’s cover is retired."
+870,Can a healthcare provider’s contract be terminated?,"Yes, if they fail to meet the standards, engage in fraud, or violate contract terms, among other reasons."
+871,What protections exist for contributors’ personal data?,The Authority must comply with the Data Protection Act and the Digital Health Act in processing personal information.
+872,"What is required for a household to transition from Social Health Insurance Fund to the Emergency, Chronic, and Critical Illness Fund?",Depletion of Social Health Insurance Fund benefits and medical necessity for further treatment under the fund.
+873,Additional question 41,Additional answer 41
+874,What happens when an individual turns 18 under this scheme?,They must apply to update their registration details and obtain a new Social Health Insurance number within 90 days.
+875,What measures are in place to ensure quality assurance in claims processing?,The Authority conducts periodic quality assurance checks to ensure compliance with regulations and standards.
+876,What is the role of the Benefits Package and Tariffs Advisory Panel?,It reviews and updates healthcare benefits and tariffs to ensure cost-effectiveness and public health impact.
+877,What are the consequences of fraudulent claims by healthcare providers?,Healthcare providers found submitting fraudulent claims may have their contracts terminated and face legal action.
+878,How does the insurance scheme handle emergency medical care?,"Emergency services are covered under the Emergency, Chronic, and Critical Illness Fund, ensuring immediate access to care."
+879,What is required for a healthcare facility to be empanelled under this scheme?,"It must be licensed, certified, and meet quality standards set by the Authority and relevant health bodies."
+880,How does the scheme support indigent households?,"The government, through means testing, identifies and funds contributions for vulnerable households."
+881,What is the process for a healthcare provider to appeal contract termination?,They can lodge an appeal with the Dispute Resolution Tribunal for review of the termination decision.
+882,How often are contribution rates reviewed?,The Authority periodically reviews contribution rates based on economic factors and healthcare costs.
+883,What happens if a contributor's employment status changes?,"Employers must notify the Authority within 30 days, and contributions may shift to a different payment category."
+884,How are households without salaried income assessed for contributions?,"Their contributions are determined using means testing, assessing socioeconomic factors to calculate the payable amount."
+885,What are the penalties for non-compliance by employers?,Employers failing to deduct and remit contributions may face penalties as prescribed by the Authority.
+886,What role do County Governments play in the scheme?,They help identify indigent households needing financial assistance and ensure remittance of contributions.
+887,Can contributions be paid in advance?,"Yes, contributors can make advance payments to avoid lapses in coverage."
+888,How does the scheme ensure inclusivity for persons with disabilities?,It provides special registration provisions and ensures accessibility to healthcare services for persons with disabilities.
+889,What happens if a contributor fails to make payments?,They may lose access to benefits until outstanding payments are made.
+890,How does the insurance scheme handle referrals?,Beneficiaries referred from primary care must be up to date with contributions to access specialist care.
+891,Can a contributor add new beneficiaries?,"Yes, they must submit a formal amendment request with required documentation."
+892,What healthcare services are covered at primary care facilities?,"Services include promotive, preventive, curative, rehabilitative, and palliative care."
+893,Additional question 61,Additional answer 61
+894,What is the penalty for late submission of contributions?,"The Authority imposes penalties on late payments, which must be settled to maintain active coverage."
+895,How can contributors verify their payment status?,They can check their payment status via the Centralized Digital Platform or request a statement from the Authority.
+896,What is required for a beneficiary to access healthcare services?,They must present their national ID and biometric verification or an alternative identification document.
+897,Can beneficiaries receive healthcare services without biometric verification?,"Yes, but they must provide an alternative form of identification, such as a social health insurance number and a one-time password."
+898,How does the insurance scheme handle pre-existing conditions?,"Pre-existing conditions are covered, provided the contributor is up to date with contributions."
+899,What happens if a contributor is unable to pay their premiums?,They may lose access to benefits unless classified as indigent through means testing.
+900,Can a contributor opt out of the insurance scheme?,"No, registration and contributions are mandatory for all Kenyan residents."
+901,What is the process for transitioning between different insurance funds?,"Beneficiaries transition based on their medical needs, e.g., from Social Health Insurance Fund to Emergency, Chronic, and Critical Illness Fund when necessary."
+902,How does the insurance scheme handle claims for fraudulent activities?,Fraudulent claims result in contract termination for healthcare providers and possible legal action.
+903,What healthcare services are covered for maternal and child health?,"Maternity services, antenatal and postnatal care, and child immunizations are included in the essential benefits package."
+904,What are the responsibilities of contracted healthcare providers?,"They must comply with quality standards, provide timely services, and maintain accurate records."
+905,Can a contributor change their registered healthcare provider?,"Yes, they can update their preferred healthcare facility through the Centralized Digital Platform."
+906,What is the role of technology in managing the insurance scheme?,"The scheme leverages a Centralized Digital Platform for registration, claims processing, and beneficiary verification."
+907,How are emergency healthcare services paid for?,"Emergency services are covered under the Emergency, Chronic, and Critical Illness Fund and reimbursed to healthcare providers."
+908,What happens if a healthcare provider refuses to offer treatment?,They risk contract termination if found to be in violation of the regulations.
+909,Can expatriates or foreign residents in Kenya enroll in the insurance scheme?,"Yes, provided they have legal residency and meet the registration requirements."
+910,What happens if a contributor moves to another county?,They can still access healthcare services as long as they remain registered and up to date with contributions.
+911,What measures are in place to prevent fraud in the insurance scheme?,"Strict verification processes, biometric authentication, and quality assurance checks are in place to prevent fraud."
+912,How does the scheme handle referrals to higher-level hospitals?,"Referrals must be approved, and the beneficiary must have an active contribution status."
+913,What happens when a healthcare provider's contract is terminated?,They are removed from the scheme and cannot offer services to beneficiaries.
+914,How are healthcare providers empanelled into the scheme?,"They must meet licensing, certification, and quality standards set by the Authority."
+915,What are the eligibility requirements for premium financing support?,Non-salaried contributors may access financing to pay premiums at intervals aligned with their income sources.
+916,Can a contributor's family members be covered under their plan?,"Yes, contributors can add spouses, children, and dependent family members under their plan."
+917,What steps should a contributor take if their coverage is suspended?,They must settle outstanding contributions to restore active status.
+918,How does the insurance scheme support cancer patients?,"The scheme covers cancer treatment under the Social Health Insurance Fund and the Emergency, Chronic, and Critical Illness Fund."
+919,What happens if a contributor is hospitalized abroad?,Treatment outside Kenya is covered only for approved cases and must be pre-authorized by the Authority.
+920,How does the scheme handle medical emergencies for uninsured individuals?,"Emergency treatment is provided first, and cost recovery is sought from the relevant fund or government support mechanisms."
+921,What role do community health workers play in the insurance scheme?,"They assist in registration, awareness, and referrals to healthcare facilities."
+922,Can a contributor pay for multiple months in advance?,"Yes, contributors can make advance payments to ensure continuous coverage."
+923,What penalties apply to healthcare providers who violate contract terms?,"They may face suspension, contract termination, or legal action for non-compliance."
+924,How does the insurance scheme promote preventive healthcare?,"It covers preventive services such as screenings, vaccinations, and health education."
+925,Are ambulance services covered under the scheme?,"Yes, emergency transportation is covered as part of the essential healthcare benefits package."
+926,What is the appeals process for denied claims?,Healthcare providers can appeal claim denials through the Dispute Resolution Tribunal.
+927,How are healthcare costs controlled within the scheme?,Tariffs are reviewed periodically to align with economic and healthcare sector changes.
+928,What rights do contributors have under the scheme?,"Contributors have the right to quality healthcare, transparency, and grievance redressal mechanisms."
+929,How does the scheme integrate with private health insurance?,"Private insurers can complement coverage, but the Social Health Insurance Fund remains mandatory."
+930,Can healthcare providers charge additional fees to beneficiaries?,"No, they must adhere to prescribed tariffs without unauthorized charges."
+931,How does the scheme ensure equitable access to healthcare?,By subsidizing contributions for indigent households and ensuring nationwide access to services.
